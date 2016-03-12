@@ -1,0 +1,639 @@
+,Unnamed: 0,time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+0,0,704538.4574305556,53.559,171.972,20.0,7.8,mw,,,,,iscgem,iscgem908419,735731.7865972222,"Near Islands, Aleutian Islands, Alaska",earthquake
+1,1,704530.2847106481,4.203,94.528,25.0,6.7,mw,,,,,iscgem,iscgem908409,735731.7865972222,off the west coast of northern Sumatra,earthquake
+2,2,704527.8480555556,-55.112,-29.142,15.0,6.5,mw,,,,,iscgem,iscgem908406,735731.7865972222,South Sandwich Islands region,earthquake
+3,3,704527.6991666667,-54.072,-28.239,15.0,6.6,mw,,,,,iscgem,iscgem908405,735731.7865972222,South Sandwich Islands region,earthquake
+4,4,704514.0012847222,-4.539,137.196,35.0,6.8,mw,,,,,iscgem,iscgem908400,735731.7865972222,"Papua, Indonesia",earthquake
+5,5,704509.8555555556,44.421,-56.016,10.0,7.2,mw,,,,,iscgem,iscgem908394,735731.7865972222,North Atlantic Ocean,earthquake
+6,6,704508.1550694444,6.484,126.301,35.0,7.0,mw,,,,,iscgem,iscgem908392,735731.7865972222,"Mindanao, Philippines",earthquake
+7,7,704506.7850462963,7.542,142.734,10.0,7.1,mw,,,,,iscgem,iscgem908389,735731.7865972222,"State of Yap, Federated States of Micronesia",earthquake
+8,8,704496.4848842593,8.653,126.401,35.0,6.2,mw,,,,,iscgem,iscgem908379,735731.7865972222,"Mindanao, Philippines",earthquake
+9,9,704479.425625,-22.751,-68.403,65.0,6.8,mw,,,,,iscgem,iscgem908354,735731.7865972222,"Antofagasta, Chile",earthquake
+10,10,704476.852511574,25.924,98.053,15.0,6.3,mw,,,,,iscgem,iscgem908352,735731.7865972222,Myanmar-China border region,earthquake
+11,11,704468.7194675925,-27.13,-176.848,35.0,6.5,mw,,,,,iscgem,iscgem908338,735731.7865972222,Kermadec Islands region,earthquake
+12,12,704466.3274884259,19.838,-155.641,10.0,6.4,mw,,,,,iscgem,iscgem908335,735731.7865972222,"Hawaii region, Hawaii",earthquake
+13,13,704465.7083217592,53.23,159.817,50.0,6.3,mw,,,,,iscgem,iscgem908332,735731.7865972222,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+14,14,704447.8039583333,50.989,-130.305,15.0,6.4,mw,,,,,iscgem,iscgem908314,735731.7865972222,"Vancouver Island, Canada region",earthquake
+15,15,704427.7858680555,40.201,143.754,15.0,6.4,mw,,,,,iscgem,iscgem908286,735731.7865972222,"off the east coast of Honshu, Japan",earthquake
+16,16,704418.1132986111,23.974,122.187,35.0,6.5,mw,,,,,iscgem,iscgem908274,735731.7865972222,Taiwan region,earthquake
+17,17,704414.8308680556,5.083,-82.475,15.0,6.2,mw,,,,,iscgem,iscgem908266,735731.7865972222,south of Panama,earthquake
+18,18,704407.5397916667,19.317,95.838,15.0,6.6,mw,,,,,iscgem,iscgem908257,735731.7865972222,Myanmar,earthquake
+19,19,704391.7800231482,64.1,-21.865,10.0,6.2,mw,,,,,iscgem,iscgem908228,735731.7865972222,Iceland,earthquake
+20,20,704375.8911689814,51.474,-177.771,35.0,7.3,mw,,,,,iscgem,iscgem908198,735731.7865972222,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+21,21,704374.4071643519,14.152,-45.91,10.0,6.4,mw,,,,,iscgem,iscgem908194,735731.7865972222,northern Mid-Atlantic Ridge,earthquake
+22,22,704373.9419097222,51.173,-177.066,25.0,6.5,mw,,,,,iscgem,iscgem908191,735731.7865972222,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+23,23,704373.5966319444,51.473,-178.152,35.0,7.0,mw,,,,,iscgem,iscgem908189,735731.7865972222,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+24,24,704372.1865740741,64.355,-147.852,20.0,6.5,mw,,,,,iscgem,iscgem908184,735731.7865972222,Central Alaska,earthquake
+25,25,704368.1145023148,8.809,126.898,30.0,6.5,mw,,,,,iscgem,iscgem908176,735731.7865972222,"Mindanao, Philippines",earthquake
+26,26,704365.5327893519,-55.342,-29.434,15.0,8.1,mw,,,,,iscgem,iscgem908171,735731.7865972222,South Sandwich Islands region,earthquake
+27,27,704357.313113426,8.404,126.625,35.0,6.4,mw,,,,,iscgem,iscgem908155,735731.7865972222,"Mindanao, Philippines",earthquake
+28,28,704354.9496527778,-41.982,172.397,20.0,7.3,mw,,,,,iscgem,iscgem908150,735731.7865972222,South Island of New Zealand,earthquake
+29,29,704351.9588194444,8.27,126.866,35.0,6.4,mw,,,,,iscgem,iscgem908144,735731.7865972222,"Mindanao, Philippines",earthquake
+30,30,704351.3921759259,8.097,125.948,35.0,7.2,mw,,,,,iscgem,iscgem908140,735731.7865972222,"Mindanao, Philippines",earthquake
+31,31,704351.0085648148,45.645,151.431,35.0,6.9,mw,,,,,iscgem,iscgem908137,735731.7865972222,Kuril Islands,earthquake
+32,32,704347.3805555556,45.964,151.188,35.0,6.5,mw,,,,,iscgem,iscgem908129,735731.7865972222,Kuril Islands,earthquake
+33,33,704344.451550926,-1.24,-14.832,10.0,6.3,mw,,,,,iscgem,iscgem908120,735731.7865972222,north of Ascension Island,earthquake
+34,34,704340.9018055556,33.961,137.131,350.4,6.9,mw,,,,,iscgem,iscgem908115,735731.7865972222,"near the south coast of Honshu, Japan",earthquake
+35,35,704337.405162037,-34.866,-67.885,10.0,6.6,mw,,,,,iscgem,iscgem908107,735731.7865972222,"Mendoza, Argentina",earthquake
+36,36,704333.944537037,51.0,-130.713,15.0,7.3,mw,,,,,iscgem,iscgem908101,735731.7865972222,"Haida Gwaii Region, Canada",earthquake
+37,37,704329.8377430555,-61.845,153.888,10.0,6.3,mw,,,,,iscgem,iscgem908095,735731.7865972222,Balleny Islands region,earthquake
+38,38,704328.6913773149,31.822,131.574,35.0,6.7,mw,,,,,iscgem,iscgem908087,735731.7865972222,"Kyushu, Japan",earthquake
+39,39,704327.2034953703,51.594,-175.957,35.0,6.2,mw,,,,,iscgem,iscgem908085,735731.7865972222,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+40,40,704314.6912268519,-2.574,136.052,25.0,6.5,mw,,,,,iscgem,iscgem908065,735731.7865972222,"near the north coast of Papua, Indonesia",earthquake
+41,41,704308.6511111112,38.117,57.736,10.0,7.2,mw,,,,,iscgem,iscgem908052,735731.7865972222,Turkmenistan,earthquake
+42,42,704267.1091087963,13.384,-90.756,35.0,6.4,mw,,,,,iscgem,iscgem907957,735731.7865972222,offshore Guatemala,earthquake
+43,43,704255.4517361111,-42.968,172.03,20.0,7.0,mw,,,,,iscgem,iscgem907935,735731.7865972222,South Island of New Zealand,earthquake
+44,44,704253.0657638889,50.852,-169.753,15.0,7.8,mw,,,,,iscgem,iscgem907930,735731.7865972222,south of the Aleutian Islands,earthquake
+45,45,704244.3755902778,54.511,-162.855,30.0,6.4,mw,,,,,iscgem,iscgem907916,735731.7865972222,Alaska Peninsula,earthquake
+46,46,704240.8623958334,10.684,-41.984,10.0,7.1,mw,,,,,iscgem,iscgem907911,735731.7865972222,northern Mid-Atlantic Ridge,earthquake
+47,47,704234.8078125,-53.056,-122.5,10.0,6.4,mw,,,,,iscgem,iscgem907904,735731.7865972222,southern East Pacific Rise,earthquake
+48,48,704228.6523148149,13.695,-90.868,30.0,6.7,mw,,,,,iscgem,iscgem907897,735731.7865972222,offshore Guatemala,earthquake
+49,49,704220.0002893518,-1.179,-22.284,10.0,7.1,mw,,,,,iscgem,iscgem907884,735731.7865972222,central Mid-Atlantic Ridge,earthquake
+50,50,704211.8588425926,13.02,-90.625,15.0,6.9,mw,,,,,iscgem,iscgem907874,735731.7865972222,offshore Guatemala,earthquake
+51,51,704208.2052893519,-51.335,139.935,10.0,6.2,mw,,,,,iscgem,iscgem907868,735731.7865972222,western Indian-Antarctic Ridge,earthquake
+52,52,704204.4900925925,10.543,-64.444,10.0,6.7,mw,,,,,iscgem,iscgem907860,735731.7865972222,"offshore Sucre, Venezuela",earthquake
+53,53,704203.3376273148,16.505,120.818,25.0,6.2,mw,,,,,iscgem,iscgem907857,735731.7865972222,"Luzon, Philippines",earthquake
+54,54,704184.597025463,7.667,123.289,15.0,6.7,mw,,,,,iscgem,iscgem909032,735731.7865972222,"Mindanao, Philippines",earthquake
+55,55,704175.4842361112,6.753,124.178,25.0,7.4,mw,,,,,iscgemsup,iscgemsup909023,735792.7099768518,"Mindanao, Philippines",earthquake
+56,56,704168.8470949074,-28.175,-176.314,30.0,6.8,mw,,,,,iscgem,iscgem909012,735731.7865972222,Kermadec Islands region,earthquake
+57,57,704165.2121527778,-9.054,157.873,15.0,6.7,mw,,,,,iscgemsup,iscgemsup909005,735792.7099768518,Solomon Islands,earthquake
+58,58,704163.3848032408,-4.191,133.836,15.0,7.0,mw,,,,,iscgem,iscgem908999,735731.7865972222,"near the south coast of Papua, Indonesia",earthquake
+59,59,704158.1808449074,-35.685,-72.812,30.0,7.0,mw,,,,,iscgem,iscgem908989,735731.7865972222,"offshore Maule, Chile",earthquake
+60,60,704157.1710300926,-35.155,-72.105,35.0,7.7,mw,,,,,iscgem,iscgem908986,735731.7865972222,"Maule, Chile",earthquake
+61,61,704155.7501157407,-29.699,-175.849,15.0,6.4,mw,,,,,iscgem,iscgem908984,735731.7865972222,Kermadec Islands region,earthquake
+62,62,704154.4466666667,-8.653,120.724,20.0,6.9,mw,,,,,iscgem,iscgem908980,735731.7865972222,"Flores region, Indonesia",earthquake
+63,63,704148.3549537037,-56.526,-4.099,10.0,6.9,mw,,,,,iscgemsup,iscgemsup908973,735792.7099768518,southern Mid-Atlantic Ridge,earthquake
+64,64,704146.8577777778,-23.152,-69.997,45.0,6.8,mw,,,,,iscgem,iscgem908971,735731.7865972222,"Antofagasta, Chile",earthquake
+65,65,704137.9451273148,-33.818,57.854,10.0,6.4,mw,,,,,iscgem,iscgem908961,735731.7865972222,Southwest Indian Ridge,earthquake
+66,66,704132.1702083333,-20.488,169.17,55.0,6.7,mw,,,,,iscgem,iscgem908955,735731.7865972222,Vanuatu,earthquake
+67,67,704127.175625,27.091,-105.779,10.0,6.4,mw,,,,,iscgem,iscgem908949,735731.7865972222,"Chihuahua, Mexico",earthquake
+68,68,704120.522962963,11.586,-87.054,30.0,6.5,mw,,,,,iscgem,iscgem908944,735731.7865972222,near the coast of Nicaragua,earthquake
+69,69,704112.6386111111,-53.685,-56.101,10.0,6.7,mw,,,,,iscgem,iscgem908933,735731.7865972222,Falkland Islands region,earthquake
+70,70,704110.5970717593,28.517,67.209,35.0,6.8,mw,,,,,iscgem,iscgem908931,735731.7865972222,Pakistan,earthquake
+71,71,704104.1258449074,16.19,-97.502,25.0,7.5,mw,,,,,iscgem,iscgem908920,735731.7865972222,"Oaxaca, Mexico",earthquake
+72,72,704087.3135532407,-12.692,165.823,15.0,6.8,mw,,,,,iscgem,iscgem908904,735731.7865972222,Santa Cruz Islands,earthquake
+73,73,704078.1433680556,2.035,126.102,35.0,6.5,mw,,,,,iscgem,iscgem908888,735731.7865972222,Molucca Sea,earthquake
+74,74,704072.1174421296,-5.541,147.952,15.0,6.2,mw,,,,,iscgem,iscgem908883,735731.7865972222,"eastern New Guinea region, Papua New Guinea",earthquake
+75,75,704066.2562847222,29.014,70.583,35.0,6.5,mw,,,,,iscgem,iscgem908875,735731.7865972222,Pakistan,earthquake
+76,76,704046.339363426,1.917,126.949,15.0,6.3,mw,,,,,iscgem,iscgem908827,735731.7865972222,Molucca Sea,earthquake
+77,77,704038.7682754629,16.004,-98.209,20.0,7.2,mw,,,,,iscgem,iscgem908823,735731.7865972222,"offshore Oaxaca, Mexico",earthquake
+78,78,704012.8913541667,-9.882,160.316,15.0,6.5,mw,,,,,iscgem,iscgem908780,735731.7865972222,Solomon Islands,earthquake
+79,79,704002.9511921296,-15.651,170.959,15.0,7.1,mw,,,,,iscgem,iscgem908762,735731.7865972222,Vanuatu region,earthquake
+80,80,703994.685636574,60.559,-147.039,15.0,6.8,mw,,,,,iscgem,iscgem908754,735731.7865972222,Southern Alaska,earthquake
+81,81,703994.4446643519,-17.376,-179.361,15.0,6.7,mw,,,,,iscgem,iscgem908753,735731.7865972222,Fiji region,earthquake
+82,82,703990.138587963,16.182,-96.585,20.0,7.9,mw,,,,,iscgem,iscgem908744,735731.7865972222,"Oaxaca, Mexico",earthquake
+83,83,703988.7197337963,12.833,120.993,15.0,6.7,mw,,,,,iscgem,iscgem908742,735731.7865972222,"Mindoro, Philippines",earthquake
+84,84,703988.2588078703,12.809,121.159,25.0,6.9,mw,,,,,iscgem,iscgem908741,735731.7865972222,"Mindoro, Philippines",earthquake
+85,85,703976.3548958333,31.639,128.908,10.0,6.3,mw,,,,,iscgemsup,iscgemsup908723,735792.7099768518,"northwest of the Ryukyu Islands, Japan",earthquake
+86,86,703974.5502430556,39.492,143.422,20.0,6.3,mw,,,,,iscgem,iscgem908714,735731.7865972222,"off the east coast of Honshu, Japan",earthquake
+87,87,703973.9750578704,-41.698,79.87,10.0,6.5,mw,,,,,iscgem,iscgem908710,735731.7865972222,Mid-Indian Ridge,earthquake
+88,88,703969.4100578703,39.916,142.819,35.0,7.2,mw,,,,,iscgem,iscgem908698,735731.7865972222,"near the east coast of Honshu, Japan",earthquake
+89,89,703943.7880208333,67.213,-171.822,15.0,6.3,mw,,,,,iscgem,iscgem908657,735731.7865972222,"near the north coast of Chukotskiy Avtonomnyy Okrug, Russia",earthquake
+90,90,703939.8576388889,-13.631,-70.354,25.0,6.5,mw,,,,,iscgem,iscgem908650,735731.7865972222,central Peru,earthquake
+91,91,703930.8075925926,42.356,25.109,15.0,7.1,mw,,,,,iscgem,iscgem908608,735731.7865972222,Bulgaria,earthquake
+92,92,703929.1426388889,17.716,-95.386,35.0,6.5,mw,,,,,iscgem,iscgem908604,735731.7865972222,"Veracruz, Mexico",earthquake
+93,93,703926.375,42.329,25.717,10.0,7.1,mw,,,,,iscgem,iscgem908596,735731.7865972222,Bulgaria,earthquake
+94,94,703921.7321412037,-13.613,-70.372,25.0,6.7,mw,,,,,iscgem,iscgem908588,735731.7865972222,central Peru,earthquake
+95,95,703915.696412037,-11.161,-14.861,10.0,6.4,mw,,,,,iscgem,iscgem908583,735731.7865972222,Ascension Island region,earthquake
+96,96,703912.0207175926,38.202,27.494,10.0,6.4,mw,,,,,iscgem,iscgem908579,735731.7865972222,western Turkey,earthquake
+97,97,703910.2125578703,31.748,137.858,405.0,7.0,mw,,,,,iscgem,iscgem908573,735731.7865972222,"Izu Islands, Japan region",earthquake
+98,98,703908.7964467593,-33.471,58.431,10.0,6.3,mw,,,,,iscgem,iscgem908569,735731.7865972222,South Indian Ocean,earthquake
+99,99,703907.2266782407,0.966,125.364,35.0,6.2,mw,,,,,iscgem,iscgem908560,735731.7865972222,Molucca Sea,earthquake
+100,100,703903.1785300926,16.142,-96.107,15.0,7.6,mw,,,,,iscgem,iscgem908552,735731.7865972222,"Oaxaca, Mexico",earthquake
+101,101,703899.499537037,-22.738,170.944,10.0,6.3,mw,,,,,iscgem,iscgem908544,735731.7865972222,southeast of the Loyalty Islands,earthquake
+102,102,703897.2090972222,-22.455,170.236,10.0,7.6,mw,,,,,iscgemsup,iscgemsup908538,735792.7099768518,southeast of the Loyalty Islands,earthquake
+103,103,703894.7721296296,-5.059,153.433,75.0,6.5,mw,,,,,iscgem,iscgem908536,735731.7865972222,"New Ireland region, Papua New Guinea",earthquake
+104,104,703890.7538078703,-2.649,88.436,15.0,7.7,mw,,,,,iscgem,iscgem908528,735731.7865972222,South Indian Ocean,earthquake
+105,105,703888.9468518519,37.667,102.132,15.0,6.2,mw,,,,,iscgem,iscgem908524,735731.7865972222,"Gansu-Qinghai border region, China",earthquake
+106,106,703881.9147569444,-57.337,148.884,10.0,6.4,mw,,,,,iscgem,iscgem908517,735731.7865972222,west of Macquarie Island,earthquake
+107,107,703878.0550347222,67.408,-171.668,10.0,6.5,mw,,,,,iscgem,iscgem908514,735731.7865972222,"near the north coast of Chukotskiy Avtonomnyy Okrug, Russia",earthquake
+108,108,703876.5905787037,67.042,-173.886,15.0,6.3,mw,,,,,iscgem,iscgem908510,735731.7865972222,"near the north coast of Chukotskiy Avtonomnyy Okrug, Russia",earthquake
+109,109,703873.825775463,67.526,-172.015,10.0,6.6,mw,,,,,iscgem,iscgem908503,735731.7865972222,"near the north coast of Chukotskiy Avtonomnyy Okrug, Russia",earthquake
+110,110,703859.0011805556,-2.643,88.578,15.0,6.7,mw,,,,,iscgem,iscgem908485,735731.7865972222,South Indian Ocean,earthquake
+111,111,703851.1356944444,-34.168,58.265,10.0,6.4,mw,,,,,iscgem,iscgem908477,735731.7865972222,South Indian Ocean,earthquake
+112,112,703847.9107986111,-4.964,95.993,15.0,6.4,mw,,,,,iscgem,iscgem908473,735731.7865972222,"southwest of Sumatra, Indonesia",earthquake
+113,113,703833.5463310186,-29.879,-71.819,30.0,6.3,mw,,,,,iscgem,iscgem908457,735731.7865972222,"offshore Coquimbo, Chile",earthquake
+114,114,703831.1011226852,0.383,35.419,10.0,6.2,mw,,,,,iscgem,iscgem908454,735731.7865972222,Kenya,earthquake
+115,115,703827.8138773148,0.34,35.86,15.0,7.0,mw,,,,,iscgem,iscgem908452,735731.7865972222,Kenya,earthquake
+116,116,703818.7642708333,55.245,160.05,15.0,7.2,mw,,,,,iscgem,iscgem16960058,735731.7865972222,"Kamchatka Peninsula, Russia",earthquake
+117,117,703791.1926388888,-0.842,120.764,20.0,6.3,mw,,,,,iscgem,iscgem909657,735731.7865972222,"Minahasa, Sulawesi, Indonesia",earthquake
+118,118,703781.967037037,-44.816,-72.926,15.0,7.2,mw,,,,,iscgem,iscgem909648,735731.7865972222,"Aisen, Chile",earthquake
+119,119,703776.8820601852,6.678,125.972,35.0,6.9,mw,,,,,iscgem,iscgem909631,735731.7865972222,"Mindanao, Philippines",earthquake
+120,120,703774.3052083333,-30.798,-70.782,50.0,6.7,mw,,,,,iscgem,iscgem909624,735731.7865972222,"Coquimbo, Chile",earthquake
+121,121,703774.2059375,70.094,128.731,15.0,6.7,mw,,,,,iscgem,iscgem909623,735731.7865972222,"northwestern Sakha, Russia",earthquake
+122,122,703774.008425926,70.221,128.939,15.0,6.5,mw,,,,,iscgem,iscgem909622,735731.7865972222,"northwestern Sakha, Russia",earthquake
+123,123,703768.1322916667,-33.997,58.37,10.0,6.5,mw,,,,,iscgem,iscgem909614,735731.7865972222,South Indian Ocean,earthquake
+124,124,703764.5771180555,34.813,-120.774,10.0,6.9,mw,,,,,iscgem,iscgem909604,735731.7865972222,offshore Central California,earthquake
+125,125,703753.7956481482,34.279,142.483,15.0,6.3,mw,,,,,iscgem,iscgem909583,735731.7865972222,"off the east coast of Honshu, Japan",earthquake
+126,126,703753.6666087963,57.776,-136.67,10.0,7.3,mw,,,,,iscgem,iscgem909582,735731.7865972222,Southeastern Alaska,earthquake
+127,127,703722.5793865741,42.481,84.151,10.0,6.4,mw,,,,,iscgem,iscgem909526,735731.7865972222,"northern Xinjiang, China",earthquake
+128,128,703710.9276851852,44.428,34.422,35.0,6.7,mw,,,,,iscgem,iscgem909503,735731.7865972222,"Crimea region, Ukraine",earthquake
+129,129,703702.8248842593,10.824,-43.405,10.0,6.6,mw,,,,,iscgem,iscgem909486,735731.7865972222,northern Mid-Atlantic Ridge,earthquake
+130,130,703692.7562615741,23.353,120.305,10.0,6.4,mw,,,,,iscgem,iscgem909473,735731.7865972222,Taiwan,earthquake
+131,131,703691.270150463,34.621,142.058,15.0,6.2,mw,,,,,iscgem,iscgem909469,735731.7865972222,"off the east coast of Honshu, Japan",earthquake
+132,132,703688.9961921297,5.262,-82.059,10.0,6.8,mw,,,,,iscgem,iscgem909462,735731.7865972222,south of Panama,earthquake
+133,133,703686.8110532408,34.463,141.469,20.0,6.9,mw,,,,,iscgem,iscgem909456,735731.7865972222,"off the east coast of Honshu, Japan",earthquake
+134,134,703678.4834722222,-0.56,131.764,15.0,7.1,mw,,,,,iscgem,iscgem909442,735731.7865972222,"near the north coast of Papua, Indonesia",earthquake
+135,135,703678.0663425926,7.196,-82.55,15.0,6.6,mw,,,,,iscgem,iscgem909441,735731.7865972222,south of Panama,earthquake
+136,136,703673.8840046297,37.631,142.217,35.0,7.0,mw,,,,,iscgem,iscgem909429,735731.7865972222,"off the east coast of Honshu, Japan",earthquake
+137,137,703659.1633333333,34.222,53.996,10.0,6.3,mw,,,,,iscgem,iscgem909393,735731.7865972222,central Iran,earthquake
+138,138,703655.4721064814,-32.772,-179.539,15.0,6.3,mw,,,,,iscgem,iscgem909390,735731.7865972222,south of the Kermadec Islands,earthquake
+139,139,703648.5445601852,31.922,35.633,15.0,6.3,mw,,,,,iscgem,iscgem909378,735731.7865972222,Dead Sea region,earthquake
+140,140,703640.4428935185,-14.465,-173.721,15.0,6.3,mw,,,,,iscgem,iscgem909362,735731.7865972222,Samoa Islands region,earthquake
+141,141,703621.7201273148,-50.571,140.079,10.0,6.3,mw,,,,,iscgem,iscgem909338,735731.7865972222,western Indian-Antarctic Ridge,earthquake
+142,142,703610.3000810185,-6.766,130.363,35.0,7.5,mw,,,,,iscgem,iscgem909316,735731.7865972222,Banda Sea,earthquake
+143,143,703598.9394560185,37.645,102.489,15.0,7.7,mw,,,,,iscgem,iscgem909273,735731.7865972222,"Gansu-Qinghai border region, China",earthquake
+144,144,703562.3437615741,51.167,-178.303,20.0,6.5,mw,,,,,iscgem,iscgem909201,735731.7865972222,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+145,145,703536.628912037,-33.468,57.524,10.0,6.4,mw,,,,,iscgem,iscgem909158,735731.7865972222,Southwest Indian Ridge,earthquake
+146,146,703527.7810532408,-39.956,-103.993,10.0,6.2,mw,,,,,iscgem,iscgem909133,735731.7865972222,southern Pacific Ocean,earthquake
+147,147,703522.3942361111,35.632,135.013,10.0,7.0,mw,,,,,iscgem,iscgem909128,735731.7865972222,"western Honshu, Japan",earthquake
+148,148,703518.0452546297,-6.718,122.094,15.0,7.1,mw,,,,,iscgem,iscgem909124,735731.7865972222,Flores Sea,earthquake
+149,149,703515.5888541667,-28.549,-71.081,35.0,6.5,mw,,,,,iscgem,iscgem909122,735731.7865972222,"Atacama, Chile",earthquake
+150,150,703512.6537268518,-38.214,177.991,35.0,6.2,mw,,,,,iscgem,iscgem909114,735731.7865972222,North Island of New Zealand,earthquake
+151,151,703503.4948148148,46.2,154.324,15.0,6.3,mw,,,,,iscgem,iscgem909096,735731.7865972222,east of the Kuril Islands,earthquake
+152,152,703503.3588310186,45.836,153.929,25.0,6.2,mw,,,,,iscgem,iscgem909094,735731.7865972222,east of the Kuril Islands,earthquake
+153,153,703503.1225810185,46.369,153.535,15.0,6.5,mw,,,,,iscgem,iscgem909093,735731.7865972222,Kuril Islands,earthquake
+154,154,703503.0662731482,46.545,153.553,15.0,7.0,mw,,,,,iscgem,iscgem909092,735731.7865972222,Kuril Islands,earthquake
+155,155,703491.1176736112,-17.24,169.345,15.0,6.3,mw,,,,,iscgem,iscgem909083,735731.7865972222,Vanuatu,earthquake
+156,156,703490.1619675925,33.367,121.382,20.0,6.5,mw,,,,,iscgem,iscgem909081,735731.7865972222,Yellow Sea,earthquake
+157,157,703488.7476273148,-6.693,155.067,35.0,6.6,mw,,,,,iscgem,iscgem909080,735731.7865972222,"Bougainville region, Papua New Guinea",earthquake
+158,158,703480.2794560185,-18.063,168.12,35.0,6.5,mw,,,,,iscgem,iscgem909069,735731.7865972222,Vanuatu,earthquake
+159,159,703480.0456828703,-18.313,167.64,30.0,7.1,mw,,,,,iscgem,iscgem909067,735731.7865972222,Vanuatu,earthquake
+160,160,703473.9154861111,38.507,142.235,35.0,6.4,mw,,,,,iscgem,iscgem909060,735731.7865972222,"near the east coast of Honshu, Japan",earthquake
+161,161,703450.280162037,-4.928,142.683,35.0,6.4,mw,,,,,iscgem,iscgem910301,735731.7865972222,"New Guinea, Papua New Guinea",earthquake
+162,162,703422.2218402778,11.261,124.699,15.0,6.2,mw,,,,,iscgem,iscgem910250,735731.7865972222,"Leyte, Philippines",earthquake
+163,163,703400.3301736111,12.598,-86.875,15.0,7.0,mw,,,,,iscgem,iscgem910221,735731.7865972222,Nicaragua,earthquake
+164,164,703397.8816087963,46.165,154.489,25.0,6.3,mw,,,,,iscgem,iscgem910217,735731.7865972222,east of the Kuril Islands,earthquake
+165,165,703396.0690393519,48.909,-128.708,15.0,6.3,mw,,,,,iscgem,iscgem910211,735731.7865972222,"Vancouver Island, Canada region",earthquake
+166,166,703390.5944675925,-2.633,139.768,35.0,6.3,mw,,,,,iscgem,iscgem910194,735731.7865972222,"near the north coast of Papua, Indonesia",earthquake
+167,167,703390.2580208334,-2.795,139.318,25.0,6.6,mw,,,,,iscgem,iscgem910192,735731.7865972222,"near the north coast of Papua, Indonesia",earthquake
+168,168,703390.1560763889,-2.834,139.283,35.0,7.6,mw,,,,,iscgem,iscgem910191,735731.7865972222,"near the north coast of Papua, Indonesia",earthquake
+169,169,703386.5662847222,36.725,-122.18,10.0,6.3,mw,,,,,iscgem,iscgem910175,735731.7865972222,offshore Central California,earthquake
+170,170,703377.7974305556,51.49,-175.288,40.0,7.0,mw,,,,,iscgem,iscgem910162,735731.7865972222,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+171,171,703377.5958101852,51.608,-179.538,50.0,6.7,mw,,,,,iscgem,iscgem910160,735731.7865972222,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+172,172,703377.2517361111,51.352,-179.84,45.0,6.9,mw,,,,,iscgem,iscgem910159,735731.7865972222,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+173,173,703367.818113426,-50.182,159.597,10.0,7.4,mw,,,,,iscgem,iscgem910139,735731.7865972222,north of Macquarie Island,earthquake
+174,174,703367.3518518518,37.776,142.87,25.0,6.3,mw,,,,,iscgem,iscgem910138,735731.7865972222,"off the east coast of Honshu, Japan",earthquake
+175,175,703350.7494444444,-9.504,159.451,15.0,7.1,mw,,,,,iscgem,iscgem910107,735731.7865972222,Solomon Islands,earthquake
+176,176,703346.6554166666,22.936,121.384,15.0,6.5,mw,,,,,iscgem,iscgem910104,735731.7865972222,Taiwan region,earthquake
+177,177,703344.4405902778,-9.156,110.617,35.0,7.1,mw,,,,,iscgem,iscgem910100,735731.7865972222,"south of Java, Indonesia",earthquake
+178,178,703341.5160185185,-5.441,145.496,35.0,6.6,mw,,,,,iscgem,iscgem910090,735731.7865972222,"eastern New Guinea region, Papua New Guinea",earthquake
+179,179,703338.6506944444,42.501,144.102,35.0,6.4,mw,,,,,iscgem,iscgem910083,735731.7865972222,"Hokkaido, Japan region",earthquake
+180,180,703336.0568402777,-34.455,57.906,10.0,7.0,mw,,,,,iscgem,iscgem910080,735731.7865972222,South Indian Ocean,earthquake
+181,181,703333.4847685185,36.57,22.995,50.0,6.3,mw,,,,,iscgem,iscgem910077,735731.7865972222,southern Greece,earthquake
+182,182,703328.2394212963,-23.145,172.139,20.0,7.0,mw,,,,,iscgem,iscgem910072,735731.7865972222,southeast of the Loyalty Islands,earthquake
+183,183,703312.5852199075,27.068,122.014,35.0,6.3,mw,,,,,iscgemsup,iscgemsup910041,735792.7099768518,Taiwan region,earthquake
+184,184,703312.1524537037,51.655,-175.446,35.0,6.4,mw,,,,,iscgem,iscgem910040,735731.7865972222,"Andreanof Islands, Aleutian Islands, Alaska",earthquake
+185,185,703309.9485763889,35.397,78.679,10.0,6.3,mw,,,,,iscgem,iscgem910016,735731.7865972222,Kashmir-Xinjiang border region,earthquake
+186,186,703306.4389814815,-2.652,126.346,15.0,6.7,mw,,,,,iscgem,iscgem909968,735731.7865972222,"Ceram Sea, Indonesia",earthquake
+187,187,703306.153912037,21.511,121.646,15.0,6.5,mw,,,,,iscgem,iscgem909966,735731.7865972222,Taiwan region,earthquake
+188,188,703305.2094212963,13.356,124.047,15.0,6.6,mw,,,,,iscgem,iscgem909963,735731.7865972222,"Catanduanes, Philippines",earthquake
+189,189,703300.3697453703,-8.512,157.332,15.0,6.5,mw,,,,,iscgem,iscgem909959,735731.7865972222,Solomon Islands,earthquake
+190,190,703288.0866550925,-6.221,146.484,35.0,6.3,mw,,,,,iscgem,iscgem909944,735731.7865972222,"eastern New Guinea region, Papua New Guinea",earthquake
+191,191,703282.4522106481,0.55,126.016,15.0,6.6,mw,,,,,iscgem,iscgem909928,735731.7865972222,Molucca Sea,earthquake
+192,192,703273.5895949074,-2.994,101.146,25.0,6.8,mw,,,,,iscgem,iscgem909912,735731.7865972222,"southern Sumatra, Indonesia",earthquake
+193,193,703271.6019675926,27.048,127.158,15.0,6.8,mw,,,,,iscgem,iscgem909904,735731.7865972222,"Ryukyu Islands, Japan",earthquake
+194,194,703270.2609722222,-0.629,100.155,35.0,6.4,mw,,,,,iscgem,iscgem909898,735731.7865972222,"southern Sumatra, Indonesia",earthquake
+195,195,703270.1412962963,0.102,101.468,15.0,6.7,mw,,,,,iscgem,iscgem909897,735731.7865972222,"northern Sumatra, Indonesia",earthquake
+196,196,703268.8239930555,36.681,26.795,15.0,6.9,mw,,,,,iscgem,iscgem909893,735731.7865972222,"Dodecanese Islands, Greece",earthquake
+197,197,703262.2876851852,-56.152,-27.512,35.0,6.3,mw,,,,,iscgem,iscgem909880,735731.7865972222,South Sandwich Islands region,earthquake
+198,198,703245.1992708333,-15.016,167.759,25.0,6.4,mw,,,,,iscgem,iscgem909857,735731.7865972222,Vanuatu,earthquake
+199,199,703242.5665856481,-33.898,57.965,10.0,6.3,mw,,,,,iscgem,iscgem909855,735731.7865972222,Southwest Indian Ridge,earthquake
+200,200,703237.8229050926,41.161,143.122,35.0,6.3,mw,,,,,iscgem,iscgem909852,735731.7865972222,"Hokkaido, Japan region",earthquake
+201,201,703231.2932754629,5.473,124.957,35.0,6.6,mw,,,,,iscgem,iscgem909845,735731.7865972222,"Mindanao, Philippines",earthquake
+202,202,703222.4725347222,19.995,-106.439,15.0,6.2,mw,,,,,iscgemsup,iscgemsup909834,735792.7099768518,"offshore Jalisco, Mexico",earthquake
+203,203,703193.3559259259,-10.349,161.634,15.0,7.3,mw,,,,,iscgem,iscgem909810,735731.7865972222,Solomon Islands,earthquake
+204,204,703189.4309375,-3.585,147.857,25.0,6.3,mw,,,,,iscgem,iscgem909807,735731.7865972222,Bismarck Sea,earthquake
+205,205,703177.4504513888,-8.943,157.446,15.0,7.0,mw,,,,,iscgem,iscgem909794,735731.7865972222,Solomon Islands,earthquake
+206,206,703172.7702546297,-6.95,150.439,15.0,6.3,mw,,,,,iscgem,iscgem909784,735731.7865972222,"New Britain region, Papua New Guinea",earthquake
+207,207,703171.5966319444,-60.879,-23.662,10.0,7.0,mw,,,,,iscgem,iscgem909780,735731.7865972222,South Sandwich Islands region,earthquake
+208,208,703168.5876736111,36.021,29.521,15.0,6.8,mw,,,,,iscgem,iscgem909771,735731.7865972222,western Turkey,earthquake
+209,209,703167.4956365741,12.056,-82.045,25.0,6.9,mw,,,,,iscgem,iscgem909769,735731.7865972222,Caribbean Sea,earthquake
+210,210,703158.8483449074,42.706,148.403,15.0,6.3,mw,,,,,iscgem,iscgem909760,735731.7865972222,"off the coast of Hokkaido, Japan",earthquake
+211,211,703154.3964930555,4.675,127.729,15.0,6.5,mw,,,,,iscgem,iscgem909755,735731.7865972222,"Kepulauan Talaud, Indonesia",earthquake
+212,212,703137.1248726852,12.054,-89.039,15.0,6.7,mw,,,,,iscgem,iscgem909744,735731.7865972222,off the coast of El Salvador,earthquake
+213,213,703135.3807986111,-22.494,177.079,35.0,6.3,mw,,,,,iscgem,iscgem909743,735731.7865972222,south of the Fiji Islands,earthquake
+214,214,703130.6375231481,12.299,-88.666,20.0,7.2,mw,,,,,iscgem,iscgem909737,735731.7865972222,offshore El Salvador,earthquake
+215,215,703117.2949074074,-21.754,169.338,20.0,6.6,mw,,,,,iscgem,iscgem909722,735731.7865972222,southeast of the Loyalty Islands,earthquake
+216,216,703116.0252893518,-10.0,159.248,15.0,7.6,mw,,,,,iscgem,iscgem909720,735731.7865972222,Solomon Islands,earthquake
+217,217,703109.8801388888,-2.805,88.211,15.0,6.7,mw,,,,,iscgem,iscgem909715,735731.7865972222,South Indian Ocean,earthquake
+218,218,703091.3658912037,-15.142,-172.032,15.0,6.1,mw,,,,,iscgem,iscgem910790,735731.7865972222,Samoa Islands region,earthquake
+219,219,703089.669675926,-1.425,120.234,25.0,6.5,mw,,,,,iscgem,iscgem910789,735731.7865972222,"Sulawesi, Indonesia",earthquake
+220,220,703087.4363425926,1.67,126.298,35.0,6.3,mw,,,,,iscgem,iscgem910784,735731.7865972222,Molucca Sea,earthquake
+221,221,703086.7664930555,8.864,125.538,20.0,6.5,mw,,,,,iscgem,iscgem910783,735731.7865972222,"Mindanao, Philippines",earthquake
+222,222,703082.2122569444,20.62,101.452,15.0,6.7,mw,,,,,iscgem,iscgem910778,735731.7865972222,Laos,earthquake
+223,223,703079.6733680556,-31.591,-110.835,10.0,6.9,mw,,,,,iscgem,iscgem910777,735731.7865972222,Easter Island region,earthquake
+224,224,703058.6760648148,-18.11,167.923,25.0,6.6,mw,,,,,iscgem,iscgem910752,735731.7865972222,Vanuatu,earthquake
+225,225,703047.0124074074,-10.49,-80.562,10.0,6.3,mw,,,,,iscgem,iscgem910740,735731.7865972222,off the coast of central Peru,earthquake
+226,226,703046.4965393519,18.496,-106.846,15.0,7.0,mw,,,,,iscgem,iscgem910739,735731.7865972222,"off the coast of Jalisco, Mexico",earthquake
+227,227,703043.5103125,12.653,124.767,20.0,7.2,mw,,,,,iscgem,iscgem910734,735731.7865972222,"Samar, Philippines",earthquake
+228,228,703040.5768171296,-0.652,130.62,15.0,7.3,mw,,,,,iscgem,iscgem910733,735731.7865972222,"Papua region, Indonesia",earthquake
+229,229,703029.612337963,-9.824,160.708,15.0,6.4,mw,,,,,iscgem,iscgem910726,735731.7865972222,Solomon Islands,earthquake
+230,230,703021.7095370371,-5.514,102.812,35.0,6.7,mw,,,,,iscgem,iscgem910720,735731.7865972222,"southern Sumatra, Indonesia",earthquake
+231,231,703012.7365509259,10.794,-42.266,10.0,7.2,mw,,,,,iscgem,iscgem910710,735731.7865972222,northern Mid-Atlantic Ridge,earthquake
+232,232,703011.2394097223,-34.308,58.251,10.0,6.3,mw,,,,,iscgem,iscgem910708,735731.7865972222,South Indian Ocean,earthquake
+233,233,702957.5052314815,55.35,167.086,15.0,7.0,mw,,,,,iscgem,iscgem910653,735731.7865972222,"Komandorskiye Ostrova, Russia region",earthquake
+234,234,702952.1726967592,-59.834,152.585,10.0,6.3,mw,,,,,iscgem,iscgem910645,735731.7865972222,west of Macquarie Island,earthquake
+235,235,702945.3249305555,18.73,-101.321,75.0,6.4,mw,,,,,iscgem,iscgem910636,735731.7865972222,"Michoacan, Mexico",earthquake
+236,236,702914.5920023149,19.244,-106.838,20.0,6.4,mw,,,,,iscgem,iscgem910594,735731.7865972222,"off the coast of Jalisco, Mexico",earthquake
+237,237,702911.3818981481,-6.549,155.252,15.0,6.2,mw,,,,,iscgem,iscgem910585,735731.7865972222,"Bougainville region, Papua New Guinea",earthquake
+238,238,702906.6127662037,34.418,-120.196,10.0,6.8,mw,,,,,iscgem,iscgem910569,735731.7865972222,"Santa Barbara Channel, California",earthquake
+239,239,702905.2597800926,28.613,130.088,35.0,6.4,mw,,,,,iscgem,iscgem910565,735731.7865972222,"Ryukyu Islands, Japan",earthquake
+240,240,702905.0563888889,46.367,-111.408,15.0,6.9,mw,,,,,iscgem,iscgem910562,735731.7865972222,western Montana,earthquake
+241,241,702886.5697106482,-4.015,143.467,25.0,7.0,mw,,,,,iscgem,iscgem910532,735731.7865972222,"New Guinea, Papua New Guinea",earthquake
+242,242,702884.9872222223,4.279,-75.331,15.0,6.3,mw,,,,,iscgem,iscgem910531,735731.7865972222,Colombia,earthquake
+243,243,702880.1902083333,1.292,126.01,15.0,7.0,mw,,,,,iscgem,iscgem910524,735731.7865972222,Molucca Sea,earthquake
+244,244,702874.2466666667,-36.519,56.222,10.0,6.5,mw,,,,,iscgem,iscgem910520,735731.7865972222,South Indian Ocean,earthquake
+245,245,702869.0901041667,35.423,135.007,15.0,6.6,mw,,,,,iscgem,iscgem910508,735731.7865972222,"western Honshu, Japan",earthquake
+246,246,702865.224849537,-34.295,57.957,10.0,6.6,mw,,,,,iscgem,iscgem910503,735731.7865972222,South Indian Ocean,earthquake
+247,247,702861.4979745371,-25.57,-70.492,30.0,6.4,mw,,,,,iscgem,iscgem910497,735731.7865972222,"Antofagasta, Chile",earthquake
+248,248,702851.9730092592,1.181,126.104,15.0,6.7,mw,,,,,iscgem,iscgem910484,735731.7865972222,Molucca Sea,earthquake
+249,249,702851.4209837962,9.782,123.064,15.0,6.7,mw,,,,,iscgem,iscgem910478,735731.7865972222,"Negros - Cebu region, Philippines",earthquake
+250,250,702849.9577199074,-34.667,57.713,15.0,6.9,mw,,,,,iscgem,iscgem910474,735731.7865972222,South Indian Ocean,earthquake
+251,251,702849.7234606481,1.19,126.304,15.0,7.1,mw,,,,,iscgem,iscgem910473,735731.7865972222,Molucca Sea,earthquake
+252,252,702832.8282523148,21.788,121.1,15.0,7.0,mw,,,,,iscgem,iscgem910450,735731.7865972222,Taiwan region,earthquake
+253,253,702827.4459027778,-34.646,58.358,10.0,7.1,mw,,,,,iscgem,iscgem910440,735731.7865972222,South Indian Ocean,earthquake
+254,254,702823.7539467593,7.509,126.734,25.0,6.3,mw,,,,,iscgem,iscgem910439,735731.7865972222,"Mindanao, Philippines",earthquake
+255,255,702814.8837384259,7.853,-77.805,15.0,6.4,mw,,,,,iscgem,iscgem910429,735731.7865972222,Panama-Colombia border region,earthquake
+256,256,702807.3624768519,-18.7,168.574,35.0,7.2,mw,,,,,iscgem,iscgem910423,735731.7865972222,Vanuatu,earthquake
+257,257,702801.6126967593,25.713,100.422,10.0,6.8,mw,,,,,iscgem,iscgem910412,735731.7865972222,"Yunnan, China",earthquake
+258,258,702792.7599537037,-55.361,-5.369,10.0,6.4,mw,,,,,iscgemsup,iscgemsup910398,735792.7099768518,southern Mid-Atlantic Ridge,earthquake
+259,259,702786.0967361111,47.495,-69.928,15.0,6.3,mw,,,,,iscgem,iscgem910394,735731.7865972222,"St. Lawrence Valley region, Quebec, Canada",earthquake
+260,260,702780.9956944444,61.109,-147.755,25.0,6.6,mw,,,,,iscgem,iscgem910392,735731.7865972222,Southern Alaska,earthquake
+261,261,702777.0433101852,45.46,150.099,15.0,6.9,mw,,,,,iscgem,iscgem910390,735731.7865972222,Kuril Islands,earthquake
+262,262,702773.7356712963,-59.092,-7.375,10.0,6.6,mw,,,,,iscgem,iscgem910387,735731.7865972222,east of the South Sandwich Islands,earthquake
+263,263,702770.5760300925,-28.872,-176.196,35.0,6.5,mw,,,,,iscgem,iscgem910384,735731.7865972222,Kermadec Islands region,earthquake
+264,264,702766.5902083333,-22.485,170.792,15.0,6.6,mw,,,,,iscgemsup,iscgemsup910375,735792.7099768518,southeast of the Loyalty Islands,earthquake
+265,265,702759.824224537,43.415,148.187,35.0,6.8,mw,,,,,iscgem,iscgem910362,735731.7865972222,east of the Kuril Islands,earthquake
+266,266,702759.5619675926,43.643,147.559,30.0,6.5,mw,,,,,iscgem,iscgem910358,735731.7865972222,Kuril Islands,earthquake
+267,267,702758.2250347222,43.707,147.447,30.0,6.5,mw,,,,,iscgem,iscgem910348,735731.7865972222,Kuril Islands,earthquake
+268,268,702754.1705439815,43.558,147.601,30.0,6.8,mw,,,,,iscgem,iscgem910341,735731.7865972222,Kuril Islands,earthquake
+269,269,702744.5041203704,47.803,153.607,35.0,7.2,mw,,,,,iscgem,iscgem910330,735731.7865972222,Kuril Islands,earthquake
+270,270,702707.9894791667,-11.752,110.335,15.0,6.5,mw,,,,,iscgem,iscgem911225,735731.7865972222,"south of Java, Indonesia",earthquake
+271,271,702706.7281828703,-41.712,80.162,10.0,6.3,mw,,,,,iscgem,iscgem911218,735731.7865972222,Mid-Indian Ridge,earthquake
+272,272,702704.4952083334,-8.841,145.197,15.0,6.2,mw,,,,,iscgemsup,iscgemsup911215,735792.7099768518,"near the south coast of New Guinea, Papua New Guinea",earthquake
+273,273,702678.3557060185,-26.711,-176.505,35.0,6.2,mw,,,,,iscgem,iscgem911197,735731.7865972222,south of the Fiji Islands,earthquake
+274,274,702661.8313773149,7.152,124.337,20.0,6.2,mw,,,,,iscgem,iscgem911174,735731.7865972222,"Mindanao, Philippines",earthquake
+275,275,702654.8283449074,55.506,165.188,25.0,6.6,mw,,,,,iscgem,iscgem911169,735731.7865972222,"Komandorskiye Ostrova, Russia region",earthquake
+276,276,702646.815451389,-0.266,-29.524,10.0,6.4,mw,,,,,iscgem,iscgem911155,735731.7865972222,central Mid-Atlantic Ridge,earthquake
+277,277,702642.8561921297,30.882,89.651,15.0,6.5,mw,,,,,iscgem,iscgem911152,735731.7865972222,western Xizang,earthquake
+278,278,702620.1083680555,39.061,70.538,20.0,6.2,mw,,,,,iscgem,iscgem911122,735731.7865972222,Tajikistan,earthquake
+279,279,702618.5889814815,9.921,127.409,15.0,6.4,mw,,,,,iscgem,iscgem911120,735731.7865972222,Philippine Islands region,earthquake
+280,280,702618.5508333333,51.383,178.178,25.0,6.6,mw,,,,,iscgem,iscgem911119,735731.7865972222,"Rat Islands, Aleutian Islands, Alaska",earthquake
+281,281,702617.6071180556,39.897,41.891,15.0,6.8,mw,,,,,iscgem,iscgem911110,735731.7865972222,eastern Turkey,earthquake
+282,282,702603.1284606481,8.963,126.893,15.0,7.1,mw,,,,,iscgem,iscgem911077,735731.7865972222,"Mindanao, Philippines",earthquake
+283,283,702598.9632175926,54.949,162.21,25.0,6.3,mw,,,,,iscgem,iscgem911072,735731.7865972222,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+284,284,702598.6048611111,36.502,141.846,25.0,6.4,mw,,,,,iscgem,iscgem911070,735731.7865972222,"near the east coast of Honshu, Japan",earthquake
+285,285,702598.0984375,-45.263,34.676,10.0,6.3,mw,,,,,iscgem,iscgem911069,735731.7865972222,Prince Edward Islands region,earthquake
+286,286,702590.0735532407,35.692,142.278,10.0,6.2,mw,,,,,iscgem,iscgem911063,735731.7865972222,"off the east coast of Honshu, Japan",earthquake
+287,287,702587.9773842592,36.35,142.119,10.0,6.3,mw,,,,,iscgem,iscgem911062,735731.7865972222,"off the east coast of Honshu, Japan",earthquake
+288,288,702587.751863426,36.135,141.387,15.0,7.0,mw,,,,,iscgem,iscgem911061,735731.7865972222,"near the east coast of Honshu, Japan",earthquake
+289,289,702583.258275463,-31.259,-177.007,15.0,6.5,mw,,,,,iscgem,iscgem911052,735731.7865972222,Kermadec Islands region,earthquake
+290,290,702571.2213078703,-3.169,121.189,35.0,6.5,mw,,,,,iscgem,iscgem911044,735731.7865972222,"Sulawesi, Indonesia",earthquake
+291,291,702566.2050810185,-49.522,158.911,15.0,7.1,mw,,,,,iscgem,iscgem911040,735731.7865972222,north of Macquarie Island,earthquake
+292,292,702554.6337962963,40.622,73.423,25.0,6.6,mw,,,,,iscgem,iscgem911027,735731.7865972222,Kyrgyzstan,earthquake
+293,293,702553.8227546297,37.064,83.453,10.0,7.2,mw,,,,,iscgemsup,iscgemsup911023,735792.7099768518,"southern Xinjiang, China",earthquake
+294,294,702548.7721527778,40.231,73.267,25.0,6.5,mw,,,,,iscgem,iscgem911014,735731.7865972222,Kyrgyzstan,earthquake
+295,295,702548.5964236112,7.224,-77.601,20.0,6.4,mw,,,,,iscgem,iscgem911013,735731.7865972222,Panama-Colombia border region,earthquake
+296,296,702545.1945833333,36.983,84.164,10.0,7.0,mw,,,,,iscgem,iscgem911007,735731.7865972222,"southern Xinjiang, China",earthquake
+297,297,702538.0677430555,-56.198,158.563,10.0,7.5,mw,,,,,iscgem,iscgem910998,735731.7865972222,Macquarie Island region,earthquake
+298,298,702498.219525463,-2.319,133.082,15.0,6.3,mw,,,,,iscgem,iscgem910958,735731.7865972222,"Papua, Indonesia",earthquake
+299,299,702487.6732523148,15.889,119.099,15.0,6.7,mw,,,,,iscgem,iscgem910942,735731.7865972222,"Luzon, Philippines",earthquake
+300,300,702485.702662037,-21.246,-178.755,535.0,7.1,mw,,,,,iscgem,iscgem910936,735731.7865972222,Fiji region,earthquake
+301,301,702482.8294444444,12.425,-89.026,20.0,6.6,mw,,,,,iscgem,iscgem910933,735731.7865972222,offshore El Salvador,earthquake
+302,302,702472.8340162036,18.709,-100.769,15.0,6.4,mw,,,,,iscgem,iscgem910918,735731.7865972222,"Michoacan, Mexico",earthquake
+303,303,702465.6809722222,6.722,126.038,15.0,8.0,mw,,,,,iscgem,iscgem910911,735731.7865972222,"Mindanao, Philippines",earthquake
+304,304,702446.8351967592,-17.399,-178.59,15.0,6.1,mw,,,,,iscgem,iscgem910887,735731.7865972222,Fiji region,earthquake
+305,305,702435.4384722222,49.179,142.436,15.0,6.8,mw,,,,,iscgem,iscgem910873,735731.7865972222,"Sakhalin, Russia",earthquake
+306,306,702431.4453587963,10.058,-84.855,20.0,6.4,mw,,,,,iscgem,iscgem910860,735731.7865972222,Costa Rica,earthquake
+307,307,702424.4221412037,9.791,-83.915,15.0,7.1,mw,,,,,iscgem,iscgem910853,735731.7865972222,Costa Rica,earthquake
+308,308,702404.9515972222,-3.065,121.254,35.0,6.6,mw,,,,,iscgem,iscgem910833,735731.7865972222,"Sulawesi, Indonesia",earthquake
+309,309,702389.079837963,-28.222,-70.755,45.0,6.7,mw,,,,,iscgem,iscgem910820,735731.7865972222,"Atacama, Chile",earthquake
+310,310,702374.8682986111,35.865,139.394,15.0,6.8,mw,,,,,iscgem,iscgem910800,735731.7865972222,"near the south coast of Honshu, Japan",earthquake
+311,311,702357.933912037,39.664,69.093,20.0,6.5,mw,,,,,iscgem,iscgem911786,735731.7865972222,Tajikistan,earthquake
+312,312,702334.872800926,39.802,23.597,10.0,6.2,mw,,,,,iscgem,iscgem911765,735731.7865972222,Aegean Sea,earthquake
+313,313,702317.8954976852,23.882,122.228,25.0,6.6,mw,,,,,iscgem,iscgem911741,735731.7865972222,Taiwan region,earthquake
+314,314,702305.7190162037,-38.708,-73.182,35.0,6.2,mw,,,,,iscgem,iscgem911723,735731.7865972222,"Araucania, Chile",earthquake
+315,315,702304.8944675926,29.111,130.262,35.0,6.9,mw,,,,,iscgem,iscgem911721,735731.7865972222,"Ryukyu Islands, Japan",earthquake
+316,316,702303.0031828703,-4.619,153.001,35.0,7.0,mw,,,,,iscgem,iscgem911715,735731.7865972222,"New Ireland region, Papua New Guinea",earthquake
+317,317,702302.6801273148,28.99,129.973,35.0,6.8,mw,,,,,iscgem,iscgem911714,735731.7865972222,"Ryukyu Islands, Japan",earthquake
+318,318,702283.3319444444,-10.218,120.257,35.0,6.3,mw,,,,,iscgemsup,iscgemsup911693,735792.7099768518,"Sumba region, Indonesia",earthquake
+319,319,702278.2995717593,71.464,-9.48,15.0,6.5,mw,,,,,iscgem,iscgem911688,735731.7865972222,Jan Mayen Island region,earthquake
+320,320,702275.1455787037,-1.231,129.55,15.0,7.4,mw,,,,,iscgem,iscgem911676,735731.7865972222,"Papua region, Indonesia",earthquake
+321,321,702269.3447685185,29.012,70.033,15.0,6.3,mw,,,,,iscgem,iscgem911666,735731.7865972222,Pakistan,earthquake
+322,322,702268.0561689815,52.94,-32.255,10.0,6.7,mw,,,,,iscgem,iscgem911663,735731.7865972222,Reykjanes Ridge,earthquake
+323,323,702264.3498263889,34.552,139.133,10.0,6.5,mw,,,,,iscgem,iscgem911657,735731.7865972222,"near the south coast of Honshu, Japan",earthquake
+324,324,702260.8664699075,29.196,56.833,15.0,6.8,mw,,,,,iscgem,iscgem911651,735731.7865972222,southern Iran,earthquake
+325,325,702255.298125,36.617,57.046,15.0,6.4,mw,,,,,iscgem,iscgem911644,735731.7865972222,northeastern Iran,earthquake
+326,326,702254.6908217593,-2.481,139.054,35.0,6.5,mw,,,,,iscgem,iscgem911641,735731.7865972222,"near the north coast of Papua, Indonesia",earthquake
+327,327,702247.9192824074,24.937,90.721,15.0,6.8,mw,,,,,iscgem,iscgem911634,735731.7865972222,Bangladesh,earthquake
+328,328,702240.1157523148,35.007,139.926,15.0,7.8,mw,,,,,iscgem,iscgem911591,735731.7865856482,"near the south coast of Honshu, Japan",earthquake
+329,329,702239.318125,35.196,139.244,15.0,6.4,mw,,,,,iscgem,iscgem911550,735731.7865856482,"near the south coast of Honshu, Japan",earthquake
+330,330,702239.1240162037,35.413,139.298,15.0,8.1,mw,,,,,iscgem,iscgem911526,735731.7865856482,"near the south coast of Honshu, Japan",earthquake
+331,331,702239.1236111111,35.4,139.2,15.0,8.1,,,,,,atlas,atlas19230901025800,735632.6389236111,"near the south coast of Honshu, Japan",earthquake
+332,332,702235.968900463,24.813,-109.063,10.0,6.5,mw,,,,,iscgem,iscgem911521,735731.7865856482,Gulf of California,earthquake
+333,333,702218.0379976851,5.231,118.28,35.0,6.3,mw,,,,,iscgem,iscgem911497,735731.7865856482,"Sabah, Malaysia",earthquake
+334,334,702215.5009375,10.362,-62.804,20.0,6.3,mw,,,,,iscgem,iscgem911491,735731.7865856482,"Sucre, Venezuela",earthquake
+335,335,702208.3447569445,34.786,25.16,15.0,5.6,mw,,,,,iscgem,iscgem911481,735731.7865856482,"Crete, Greece",earthquake
+336,336,702198.5959027777,52.222,173.153,25.0,6.4,mw,,,,,iscgem,iscgem911465,735731.7865856482,"Near Islands, Aleutian Islands, Alaska",earthquake
+337,337,702196.6268865741,-1.256,-14.024,10.0,6.5,mw,,,,,iscgem,iscgem911458,735731.7865856482,north of Ascension Island,earthquake
+338,338,702189.4678356481,30.967,131.082,35.0,7.0,mw,,,,,iscgemsup,iscgemsup911446,735792.7099768518,"Kyushu, Japan",earthquake
+339,339,702188.1358680555,-15.777,179.992,15.0,6.4,mw,,,,,iscgem,iscgem911444,735731.7865856482,Fiji,earthquake
+340,340,702178.1057291667,26.001,121.369,25.0,6.2,mw,,,,,iscgem,iscgem911428,735731.7865856482,Taiwan region,earthquake
+341,341,702168.2810185185,22.845,98.711,25.0,7.2,mw,,,,,iscgem,iscgem911420,735731.7865856482,Myanmar,earthquake
+342,342,702164.3444097223,-18.156,-175.55,15.0,6.8,mw,,,,,iscgem,iscgem911414,735731.7865856482,Tonga,earthquake
+343,343,702147.7255324074,35.919,141.523,15.0,6.9,mw,,,,,iscgem,iscgem911391,735731.7865856482,"near the east coast of Honshu, Japan",earthquake
+344,344,702143.0596296296,-2.691,88.327,15.0,6.4,mw,,,,,iscgem,iscgem911383,735731.7865856482,South Indian Ocean,earthquake
+345,345,702138.9424305556,53.31,162.035,15.0,6.5,mw,,,,,iscgem,iscgem911376,735731.7865856482,"off the east coast of the Kamchatka Peninsula, Russia",earthquake
+346,346,702127.0556481482,-6.966,105.171,25.0,6.4,mw,,,,,iscgem,iscgem911366,735731.7865856482,"Sunda Strait, Indonesia",earthquake
+347,347,702119.935300926,-28.928,-71.332,35.0,6.5,mw,,,,,iscgemsup,iscgemsup911356,735792.7099768518,"Atacama, Chile",earthquake
+348,348,702119.6852777777,55.828,-156.832,25.0,7.0,mw,,,,,iscgem,iscgem911354,735731.7865856482,south of Alaska,earthquake
+349,349,702108.1368055556,26.392,127.03,20.0,6.6,mw,,,,,iscgem,iscgem911336,735731.7865856482,"Ryukyu Islands, Japan",earthquake
+350,350,702104.1314004629,2.498,117.398,35.0,6.8,mw,,,,,iscgem,iscgem911334,735731.7865856482,"Kalimantan, Indonesia",earthquake
+351,351,702098.6466087963,56.355,162.696,35.0,6.8,mw,,,,,iscgem,iscgem911331,735731.7865856482,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+352,352,702078.527974537,31.295,100.75,15.0,7.0,mw,,,,,iscgem,iscgem911322,735731.7865856482,"western Sichuan, China",earthquake
+353,353,702070.9178703703,6.546,127.305,35.0,6.8,mw,,,,,iscgem,iscgem911315,735731.7865856482,Philippine Islands region,earthquake
+354,354,702068.8640277778,6.042,126.873,35.0,6.4,mw,,,,,iscgem,iscgem911312,735731.7865856482,"Mindanao, Philippines",earthquake
+355,355,702058.0065509259,-1.424,-23.137,15.0,6.3,mw,,,,,iscgem,iscgem911304,735731.7865856482,central Mid-Atlantic Ridge,earthquake
+356,356,702056.7003935185,7.619,124.857,15.0,7.0,mw,,,,,iscgem,iscgem911301,735731.7865856482,"Mindanao, Philippines",earthquake
+357,357,702050.315787037,55.388,163.265,15.0,7.3,mw,,,,,iscgem,iscgem911296,735731.7865856482,"off the east coast of the Kamchatka Peninsula, Russia",earthquake
+358,358,702049.2444444444,-0.62,123.14,35.0,6.5,mw,,,,,iscgem,iscgem911295,735731.7865856482,"Sulawesi, Indonesia",earthquake
+359,359,702038.0823958333,54.382,162.014,20.0,6.4,mw,,,,,iscgem,iscgem911283,735731.7865856482,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+360,360,702037.948449074,55.493,162.424,35.0,6.2,mw,,,,,iscgem,iscgem911282,735731.7865856482,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+361,361,702029.6679398149,54.486,160.472,15.0,8.4,mw,,,,,iscgem,iscgem911271,735731.7865856482,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+362,362,702028.21375,53.633,160.692,35.0,7.2,mw,,,,,iscgem,iscgem911270,735731.7865856482,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+363,363,702028.0462037037,52.185,162.032,15.0,6.7,mw,,,,,iscgem,iscgem911269,735731.7865856482,"off the east coast of the Kamchatka Peninsula, Russia",earthquake
+364,364,702027.8089814815,-21.668,169.849,30.0,6.9,mw,,,,,iscgem,iscgem911267,735731.7865856482,southeast of the Loyalty Islands,earthquake
+365,365,702017.3780092592,40.377,-125.118,15.0,6.9,mw,,,,,iscgem,iscgem911261,735731.7865856482,offshore Northern California,earthquake
+366,366,701995.3056712963,45.492,151.04,35.0,6.8,mw,,,,,iscgem,iscgem912134,735731.7865856482,Kuril Islands,earthquake
+367,367,701972.9397800926,41.307,141.613,15.0,6.6,mw,,,,,iscgem,iscgem912110,735731.7865856482,"Hokkaido, Japan region",earthquake
+368,368,701971.7015972222,32.629,129.69,15.0,6.6,mw,,,,,iscgem,iscgem912099,735731.7865856482,"Kyushu, Japan",earthquake
+369,369,701951.4603356482,-30.333,-72.489,15.0,6.7,mw,,,,,iscgem,iscgem912083,735731.7865856482,"offshore Coquimbo, Chile",earthquake
+370,370,701945.7566087963,-28.389,-70.58,35.0,6.6,mw,,,,,iscgem,iscgem912063,735731.7865856482,"Atacama, Chile",earthquake
+371,371,701945.1894791666,-28.293,-69.852,70.0,8.3,mw,,,,,iscgem,iscgem912062,735731.7865856482,"Atacama, Chile",earthquake
+372,372,701941.9585300926,-28.365,-71.96,25.0,7.0,mw,,,,,iscgem,iscgem912057,735731.7865856482,"offshore Atacama, Chile",earthquake
+373,373,701930.5991782408,23.966,121.529,15.0,6.4,mw,,,,,iscgem,iscgem912049,735731.7865856482,Taiwan,earthquake
+374,374,701920.276400463,12.23,95.613,20.0,6.5,mw,,,,,iscgem,iscgem912043,735731.7865856482,"Andaman Islands, India region",earthquake
+375,375,701919.6677893519,39.136,89.751,10.0,6.3,mw,,,,,iscgemsup,iscgemsup912042,735792.7099768518,"southern Xinjiang, China",earthquake
+376,376,701917.9908796296,24.613,121.325,15.0,7.0,mw,,,,,iscgem,iscgem912041,735731.7865856482,Taiwan,earthquake
+377,377,701887.8136805556,24.337,122.547,25.0,6.9,mw,,,,,iscgem,iscgem912011,735731.7865856482,Taiwan region,earthquake
+378,378,701874.8028587963,24.33,121.842,20.0,7.1,mw,,,,,iscgem,iscgem911999,735731.7865856482,Taiwan,earthquake
+379,379,701871.7091435185,12.272,121.746,15.0,6.5,mw,,,,,iscgem,iscgem911996,735731.7865856482,"Mindoro, Philippines",earthquake
+380,380,701867.8123263889,50.039,90.847,10.0,6.6,mw,,,,,iscgem,iscgem911992,735731.7865856482,Russia-Mongolia border region,earthquake
+381,381,701858.6642708334,52.971,159.723,45.0,6.6,mw,,,,,iscgem,iscgem911980,735731.7865856482,"off the east coast of the Kamchatka Peninsula, Russia",earthquake
+382,382,701855.0068865741,35.324,27.547,15.0,6.7,mw,,,,,iscgem,iscgem911975,735731.7865856482,"Dodecanese Islands, Greece",earthquake
+383,383,701853.3470023149,34.989,27.176,20.0,6.3,mw,,,,,iscgem,iscgem911973,735731.7865856482,eastern Mediterranean Sea,earthquake
+384,384,701813.566724537,54.808,-161.21,35.0,6.6,mw,,,,,iscgem,iscgem911944,735731.7865856482,Alaska Peninsula,earthquake
+385,385,701793.1998148148,23.79,-108.438,10.0,6.9,mw,,,,,iscgem,iscgem911923,735731.7865856482,Gulf of California,earthquake
+386,386,701783.8415277777,7.268,127.294,15.0,6.6,mw,,,,,iscgem,iscgem911911,735731.7865856482,Philippine Islands region,earthquake
+387,387,701765.848275463,41.172,143.054,30.0,6.5,mw,,,,,iscgem,iscgem911900,735731.7865856482,"Hokkaido, Japan region",earthquake
+388,388,701762.7774537037,-21.733,170.104,25.0,6.6,mw,,,,,iscgem,iscgem911899,735731.7865856482,southeast of the Loyalty Islands,earthquake
+389,389,701759.5767361111,-9.272,118.683,35.0,7.0,mw,,,,,iscgem,iscgem911893,735731.7865856482,"Sumbawa region, Indonesia",earthquake
+390,390,701754.3839699074,46.619,153.156,15.0,6.6,mw,,,,,iscgem,iscgem911887,735731.7865856482,Kuril Islands,earthquake
+391,391,701752.4658912037,20.049,98.253,35.0,6.7,mw,,,,,iscgem,iscgem911885,735731.7865856482,Myanmar,earthquake
+392,392,701746.1660763889,46.022,154.082,15.0,6.5,mw,,,,,iscgem,iscgem911880,735731.7865856482,east of the Kuril Islands,earthquake
+393,393,701745.888275463,-12.049,166.151,35.0,6.4,mw,,,,,iscgem,iscgem911876,735731.7865856482,Santa Cruz Islands,earthquake
+394,394,701728.8629050925,70.913,-9.575,15.0,6.5,mw,,,,,iscgem,iscgem911861,735731.7865856482,Jan Mayen Island region,earthquake
+395,395,701725.4163541667,-1.388,137.403,25.0,6.8,mw,,,,,iscgem,iscgem911855,735731.7865856482,"near the north coast of Papua, Indonesia",earthquake
+396,396,701722.8040972222,53.889,-164.989,35.0,6.4,mw,,,,,iscgem,iscgem911853,735731.7865856482,"Unimak Island region, Alaska",earthquake
+397,397,701699.4729629629,34.243,-119.097,10.0,6.5,mw,,,,,iscgem,iscgem911838,735731.7865856482,"Greater Los Angeles area, California",earthquake
+398,398,701677.1352546297,11.255,-86.408,25.0,6.4,mw,,,,,iscgemsup,iscgemsup911826,735792.7099768518,near the coast of Nicaragua,earthquake
+399,399,701661.5538310185,41.115,-125.54,15.0,7.3,mw,,,,,iscgem,iscgem911811,735731.7865856482,off the coast of Northern California,earthquake
+400,400,701652.1415393519,-19.07,-175.144,15.0,6.4,mw,,,,,iscgem,iscgem911804,735731.7865856482,Tonga,earthquake
+401,401,701649.9160185185,-7.629,141.173,15.0,6.9,mw,,,,,iscgem,iscgem911802,735731.7865856482,"New Guinea, Papua New Guinea",earthquake
+402,402,701647.1600462963,-3.025,-71.398,475.0,7.9,mw,,,,,iscgem,iscgem911801,735731.7865856482,northern Peru,earthquake
+403,403,701639.2150347222,23.802,-45.802,10.0,6.9,mw,,,,,iscgem,iscgem911798,735731.7865856482,northern Mid-Atlantic Ridge,earthquake
+404,404,701636.5910300926,-17.734,-72.743,15.0,6.8,mw,,,,,iscgem,iscgem911793,735731.7865856482,near the coast of southern Peru,earthquake
+405,405,701631.8240277778,-15.873,-177.956,15.0,6.6,mw,,,,,iscgem,iscgem911791,735731.7865856482,Fiji region,earthquake
+406,406,701617.6454629629,-3.827,-71.322,540.0,7.3,mw,,,,,iscgem,iscgem912389,735731.7865856482,northern Peru,earthquake
+407,407,701584.8588310186,36.202,70.711,240.0,7.8,mw,,,,,iscgem,iscgem912367,735731.7865856482,"Hindu Kush region, Afghanistan",earthquake
+408,408,701582.3617708334,11.829,-71.461,15.0,6.3,mw,,,,,iscgem,iscgem912363,735731.7865856482,near the coast of Venezuela,earthquake
+409,409,701580.7752314815,7.563,127.339,15.0,7.4,mw,,,,,iscgem,iscgem912362,735731.7865856482,Philippine Islands region,earthquake
+410,410,701576.6665856482,7.145,126.849,35.0,6.6,mw,,,,,iscgem,iscgem912359,735731.7865856482,"Mindanao, Philippines",earthquake
+411,411,701553.2071643518,-12.745,166.868,35.0,7.1,mw,,,,,iscgem,iscgem912341,735731.7865856482,Santa Cruz Islands,earthquake
+412,412,701548.0875925926,-3.066,138.69,35.0,6.6,mw,,,,,iscgem,iscgem912337,735731.7865856482,"Papua, Indonesia",earthquake
+413,413,701521.1090162037,-55.69,-28.73,35.0,6.9,mw,,,,,iscgem,iscgem912313,735731.7865856482,South Sandwich Islands region,earthquake
+414,414,701519.1678703703,-10.08,110.623,15.0,7.6,mw,,,,,iscgem,iscgem912309,735731.7865856482,"south of Java, Indonesia",earthquake
+415,415,701444.5824421296,-39.682,176.888,25.0,6.7,mw,,,,,iscgem,iscgem912264,735731.7865856482,North Island of New Zealand,earthquake
+416,416,701406.9347453704,48.936,155.457,35.0,6.3,mw,,,,,iscgem,iscgem912238,735731.7865856482,Kuril Islands,earthquake
+417,417,701406.3626388889,12.669,125.524,35.0,6.4,mw,,,,,iscgem,iscgem912236,735731.7865856482,"Samar, Philippines",earthquake
+418,418,701399.8459606481,-29.836,-175.907,15.0,6.2,mw,,,,,iscgem,iscgem912228,735731.7865856482,Kermadec Islands region,earthquake
+419,419,701397.1530439815,-5.791,154.11,35.0,6.4,mw,,,,,iscgem,iscgem912221,735731.7865856482,"Bougainville region, Papua New Guinea",earthquake
+420,420,701386.2355208333,18.594,-104.277,15.0,6.4,mw,,,,,iscgem,iscgem912214,735731.7865856482,"offshore Colima, Mexico",earthquake
+421,421,701357.4006134259,23.801,124.829,15.0,7.0,mw,,,,,iscgem,iscgem912199,735731.7865856482,"southwestern Ryukyu Islands, Japan",earthquake
+422,422,701356.5004976852,-11.622,164.785,35.0,6.5,mw,,,,,iscgem,iscgem912198,735731.7865856482,Santa Cruz Islands region,earthquake
+423,423,701356.1713541667,1.77,98.148,35.0,6.8,mw,,,,,iscgem,iscgem912197,735731.7865856482,"northern Sumatra, Indonesia",earthquake
+424,424,701352.3260416667,13.635,-87.09,15.0,7.3,mw,,,,,iscgem,iscgem912192,735731.7865856482,Honduras,earthquake
+425,425,701348.6124305555,51.415,158.343,25.0,6.6,mw,,,,,iscgemsup,iscgemsup912190,735792.7099768518,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+426,426,701329.266875,7.401,93.638,20.0,6.6,mw,,,,,iscgem,iscgem912177,735731.7865856482,"Nicobar Islands, India region",earthquake
+427,427,701323.766400463,-18.887,-173.042,15.0,7.4,mw,,,,,iscgem,iscgem912172,735731.7865856482,Tonga,earthquake
+428,428,701315.7602199074,-2.004,139.085,25.0,6.9,mw,,,,,iscgem,iscgem912167,735731.7865856482,"near the north coast of Papua, Indonesia",earthquake
+429,429,701315.6068055555,-0.856,133.853,15.0,6.3,mw,,,,,iscgem,iscgem912166,735731.7865856482,"near the north coast of Papua, Indonesia",earthquake
+430,430,701310.0422569445,5.146,128.892,15.0,6.3,mw,,,,,iscgem,iscgem912164,735731.7865856482,east of the Philippine Islands,earthquake
+431,431,701300.3490856482,15.681,-90.805,15.0,7.0,mw,,,,,iscgem,iscgem912158,735731.7865856482,Guatemala,earthquake
+432,432,701267.2962384259,43.942,150.501,35.0,6.3,mw,,,,,iscgem,iscgem912136,735731.7865856482,east of the Kuril Islands,earthquake
+433,433,701259.4814814815,37.241,105.484,15.0,6.8,mw,,,,,iscgem,iscgem912694,735731.7865856482,"Nei Mongol-Ningxia border region, China",earthquake
+434,434,701250.5041087962,36.888,105.606,15.0,8.3,mw,,,,,iscgem,iscgem912687,735731.7865856482,"Gansu-Ningxia border region, China",earthquake
+435,435,701244.1848032407,-37.723,-70.256,15.0,7.3,mw,,,,,iscgem,iscgem912683,735731.7865856482,"Neuquen, Argentina",earthquake
+436,436,701239.4174652778,0.094,-19.726,10.0,6.4,mw,,,,,iscgem,iscgem912678,735731.7865856482,central Mid-Atlantic Ridge,earthquake
+437,437,701220.3548611111,72.736,-131.308,15.0,6.4,mw,,,,,iscgem,iscgem912664,735731.7865856482,Beaufort Sea,earthquake
+438,438,701193.4183101852,24.51,122.003,15.0,6.4,mw,,,,,iscgemsup,iscgemsup912642,735792.7099768518,Taiwan region,earthquake
+439,439,701185.2880902778,35.426,80.532,20.0,6.7,mw,,,,,iscgem,iscgem912635,735731.7865856482,Xinjiang-Xizang border region,earthquake
+440,440,701163.6104513889,-20.088,168.523,25.0,8.1,mw,,,,,iscgem,iscgem912618,735731.7865856482,"Loyalty Islands, New Caledonia",earthquake
+441,441,701152.788912037,-14.92,173.111,15.0,6.5,mw,,,,,iscgem,iscgem912607,735731.7865856482,Fiji region,earthquake
+442,442,701132.6775578704,-38.063,-73.017,15.0,6.9,mw,,,,,iscgem,iscgem16958437,735731.7865856482,"Araucania, Chile",earthquake
+443,443,701127.3447685185,-12.119,166.428,35.0,6.7,mw,,,,,iscgem,iscgem912580,735731.7865856482,Santa Cruz Islands,earthquake
+444,444,701115.8314930556,-27.398,-67.848,15.0,6.9,mw,,,,,iscgem,iscgem912573,735731.7865856482,"Catamarca, Argentina",earthquake
+445,445,701115.1263773148,5.841,127.902,15.0,6.3,mw,,,,,iscgem,iscgem912572,735731.7865856482,Philippine Islands region,earthquake
+446,446,701085.0082175926,-0.916,-15.285,10.0,6.4,mw,,,,,iscgem,iscgem912552,735731.7865856482,north of Ascension Island,earthquake
+447,447,701060.4796180555,-4.881,129.583,15.0,6.8,mw,,,,,iscgem,iscgem912525,735731.7865856482,Banda Sea,earthquake
+448,448,701056.1816550926,23.684,121.986,20.0,8.2,mw,,,,,iscgem,iscgem912519,735731.7865856482,Taiwan,earthquake
+449,449,701040.3097916667,-12.327,166.676,80.0,6.8,mw,,,,,iscgem,iscgem912500,735731.7865856482,Santa Cruz Islands,earthquake
+450,450,701033.0755092592,-3.65,144.0,25.0,7.0,mw,,,,,iscgem,iscgem912492,735731.7865856482,"near the north coast of New Guinea, Papua New Guinea",earthquake
+451,451,701027.896724537,-9.366,156.26,15.0,6.8,mw,,,,,iscgem,iscgem912486,735731.7865856482,Solomon Islands,earthquake
+452,452,701027.236712963,6.831,126.808,35.0,6.8,mw,,,,,iscgem,iscgem912485,735731.7865856482,"Mindanao, Philippines",earthquake
+453,453,701001.9609375,48.881,151.124,15.0,6.3,mw,,,,,iscgem,iscgem912474,735731.7865856482,Kuril Islands,earthquake
+454,454,700992.0451273149,-8.075,148.027,15.0,6.3,mw,,,,,iscgemsup,iscgemsup912467,735792.7099768518,"eastern New Guinea region, Papua New Guinea",earthquake
+455,455,700988.213888889,50.957,-127.233,15.0,6.4,mw,,,,,iscgem,iscgem912464,735731.7865856482,"Vancouver Island, Canada region",earthquake
+456,456,700979.7718171297,-35.848,-110.726,10.0,7.0,mw,,,,,iscgem,iscgem912460,735731.7865856482,southern East Pacific Rise,earthquake
+457,457,700976.7757407407,1.575,95.555,15.0,6.3,mw,,,,,iscgem,iscgem912458,735731.7865856482,off the west coast of northern Sumatra,earthquake
+458,458,700940.9217361112,18.619,-67.339,15.0,6.4,mw,,,,,iscgem,iscgem912429,735731.7865856482,Puerto Rico region,earthquake
+459,459,700938.225324074,-35.809,109.537,15.0,6.4,mw,,,,,iscgemsup,iscgemsup912424,735792.7099768518,southwest of Australia,earthquake
+460,460,700932.4738888888,-4.967,152.017,35.0,7.8,mw,,,,,iscgem,iscgem912419,735731.7865856482,"New Britain region, Papua New Guinea",earthquake
+461,461,700888.8594212963,22.514,121.787,20.0,6.9,mw,,,,,iscgem,iscgem913021,735731.7865856482,Taiwan region,earthquake
+462,462,700856.913125,39.498,26.53,10.0,6.5,mw,,,,,iscgem,iscgem913005,735731.7865856482,near the coast of western Turkey,earthquake
+463,463,700819.9086921297,-4.179,101.752,25.0,6.5,mw,,,,,iscgem,iscgem912979,735731.7865856482,"southern Sumatra, Indonesia",earthquake
+464,464,700803.8192476851,6.85,124.098,35.0,6.6,mw,,,,,iscgem,iscgem912961,735731.7865856482,"Mindanao, Philippines",earthquake
+465,465,700778.8003819444,-62.887,-116.661,10.0,6.3,mw,,,,,iscgemsup,iscgemsup912915,735792.7099768518,southern Pacific Ocean,earthquake
+466,466,700777.7226273149,-15.368,167.194,35.0,6.8,mw,,,,,iscgem,iscgem912912,735731.7865856482,Vanuatu,earthquake
+467,467,700775.2389236111,-3.019,127.383,15.0,6.9,mw,,,,,iscgem,iscgem912906,735731.7865856482,"Seram, Indonesia",earthquake
+468,468,700739.0857986112,39.071,75.441,20.0,6.5,mw,,,,,iscgem,iscgem912862,735731.7865856482,"southern Xinjiang, China",earthquake
+469,469,700723.8793287037,-8.174,31.566,15.0,7.2,mw,,,,,iscgem,iscgem912837,735731.7865856482,"Lake Tanganyika region, Tanzania-Zambia",earthquake
+470,470,700715.3100694445,5.589,36.724,15.0,6.5,mw,,,,,iscgemsup,iscgemsup912825,735792.7099768518,Ethiopia,earthquake
+471,471,700714.9682060186,12.33,-88.291,20.0,6.6,mw,,,,,iscgem,iscgem912823,735731.7865856482,offshore El Salvador,earthquake
+472,472,700677.2575,29.884,71.363,35.0,6.5,mw,,,,,iscgem,iscgem912797,735731.7865856482,Pakistan,earthquake
+473,473,700661.2179861111,-5.669,153.594,35.0,6.4,mw,,,,,iscgem,iscgem912784,735731.7865856482,"New Ireland region, Papua New Guinea",earthquake
+474,474,700660.8203009259,-4.852,153.714,35.0,7.8,mw,,,,,iscgem,iscgem912783,735731.7865856482,"New Ireland region, Papua New Guinea",earthquake
+475,475,700657.0361458333,40.783,145.403,15.0,7.2,mw,,,,,iscgemsup,iscgemsup912777,735792.7099768518,"off the east coast of Honshu, Japan",earthquake
+476,476,700656.0885532408,-17.307,-173.647,25.0,6.4,mw,,,,,iscgem,iscgem912776,735731.7865856482,Tonga,earthquake
+477,477,700655.2122569444,-11.421,33.116,15.0,6.7,mw,,,,,iscgemsup,iscgemsup912775,735792.7099768518,Zambia,earthquake
+478,478,700654.3036689815,-18.352,-172.515,25.0,8.1,mw,,,,,iscgem,iscgem912773,735731.7865856482,Tonga region,earthquake
+479,479,700651.0152777778,12.353,120.41,15.0,6.6,mw,,,,,iscgem,iscgem912770,735731.7865856482,"Mindoro, Philippines",earthquake
+480,480,700645.4765277777,8.917,-40.491,10.0,6.6,mw,,,,,iscgem,iscgem912766,735731.7865856482,central Mid-Atlantic Ridge,earthquake
+481,481,700641.8702430555,14.229,-91.715,35.0,6.8,mw,,,,,iscgem,iscgem912762,735731.7865856482,Guatemala,earthquake
+482,482,700641.4737152777,-30.418,-178.11,35.0,7.2,mw,,,,,iscgem,iscgem912761,735731.7865856482,"Kermadec Islands, New Zealand",earthquake
+483,483,700626.0242939815,-5.496,104.487,20.0,6.4,mw,,,,,iscgem,iscgem912756,735731.7865856482,"southern Sumatra, Indonesia",earthquake
+484,484,700602.1367824074,-41.421,-74.368,15.0,6.8,mw,,,,,iscgem,iscgem912740,735731.7865856482,"offshore Los Lagos, Chile",earthquake
+485,485,700595.4897569445,-43.109,-71.695,15.0,7.2,mw,,,,,iscgem,iscgem912735,735731.7865856482,"Chubut, Argentina",earthquake
+486,486,700595.1434606481,-43.8,-78.319,15.0,7.2,mw,,,,,iscgem,iscgem912734,735731.7865856482,"off the coast of Los Lagos, Chile",earthquake
+487,487,700552.2447222222,-4.577,101.467,35.0,6.3,mw,,,,,iscgem,iscgem912712,735731.7865856482,"southern Sumatra, Indonesia",earthquake
+488,488,700535.1253935185,-19.307,-178.106,485.0,7.8,mw,,,,,iscgem,iscgem912700,735731.7865856482,Fiji region,earthquake
+489,489,700535.0651504629,6.819,126.53,35.0,6.9,mw,,,,,iscgem,iscgem912699,735731.7865856482,"Mindanao, Philippines",earthquake
+490,490,700509.3618865741,49.822,-126.695,15.0,6.8,mw,,,,,iscgem,iscgem913365,735731.7865856482,"Vancouver Island, Canada region",earthquake
+491,491,700507.4915509259,-26.538,-70.608,40.0,7.8,mw,,,,,iscgem,iscgem913362,735731.7865856482,"Atacama, Chile",earthquake
+492,492,700505.4080324074,11.391,-43.549,10.0,7.1,mw,,,,,iscgem,iscgem913359,735731.7865856482,northern Mid-Atlantic Ridge,earthquake
+493,493,700504.1078819444,38.428,72.797,20.0,6.5,mw,,,,,iscgem,iscgem913358,735731.7865856482,Tajikistan,earthquake
+494,494,700503.2838657408,70.54,130.512,15.0,6.4,mw,,,,,iscgemsup,iscgemsup913357,735792.7099768518,"northwestern Sakha, Russia",earthquake
+495,495,700496.9567361111,-6.807,129.148,15.0,6.9,mw,,,,,iscgem,iscgem913349,735731.7865856482,Banda Sea,earthquake
+496,496,700481.1931597223,44.893,151.896,15.0,7.8,mw,,,,,iscgem,iscgem913336,735731.7865856482,east of the Kuril Islands,earthquake
+497,497,700476.4680324075,-49.597,163.536,15.0,6.7,mw,,,,,iscgemsup,iscgemsup913333,735792.7099768518,"Auckland Islands, New Zealand region",earthquake
+498,498,700469.7129629629,-1.402,149.683,15.0,7.2,mw,,,,,iscgem,iscgem913330,735731.7865856482,"New Ireland region, Papua New Guinea",earthquake
+499,499,700461.1410185185,13.88,-90.023,35.0,6.6,mw,,,,,iscgem,iscgem913321,735731.7865856482,El Salvador,earthquake
+500,500,700456.5001620371,-20.65,-174.11,30.0,6.3,mw,,,,,iscgem,iscgem913314,735731.7865856482,Tonga,earthquake
+501,501,700453.5935416666,18.802,-67.219,15.0,7.1,mw,,,,,iscgem,iscgem913306,735731.7865856482,Puerto Rico region,earthquake
+502,502,700442.7442592593,-23.953,171.521,35.0,6.5,mw,,,,,iscgemsup,iscgemsup913299,735792.7099768518,southeast of the Loyalty Islands,earthquake
+503,503,700441.5050231481,35.077,35.608,15.0,6.6,mw,,,,,iscgem,iscgem913295,735731.7865856482,near the coast of Syria,earthquake
+504,504,700434.4131944445,-1.457,100.09,35.0,6.5,mw,,,,,iscgem,iscgem913286,735731.7865856482,"southern Sumatra, Indonesia",earthquake
+505,505,700419.7197106482,46.737,150.653,15.0,8.1,mw,,,,,iscgem,iscgem913260,735731.7865856482,Kuril Islands,earthquake
+506,506,700404.2755092593,-10.789,164.919,15.0,6.5,mw,,,,,iscgem,iscgem913246,735731.7865856482,Santa Cruz Islands region,earthquake
+507,507,700397.1428356481,5.289,124.66,35.0,6.1,mw,,,,,iscgem,iscgem913233,735731.7865856482,"Mindanao, Philippines",earthquake
+508,508,700396.7292939815,5.226,125.75,15.0,6.9,mw,,,,,iscgem,iscgem913232,735731.7865856482,"Mindanao, Philippines",earthquake
+509,509,700396.643287037,5.213,124.261,35.0,6.4,mw,,,,,iscgem,iscgem913231,735731.7865856482,"Mindanao, Philippines",earthquake
+510,510,700396.5127430556,5.967,124.377,20.0,8.3,mw,,,,,iscgem,iscgem913230,735731.7865856482,"Mindanao, Philippines",earthquake
+511,511,700389.4083912037,-4.978,152.344,35.0,6.5,mw,,,,,iscgem,iscgem913219,735731.7865856482,"New Britain region, Papua New Guinea",earthquake
+512,512,700379.7016319444,-3.111,143.91,15.0,6.6,mw,,,,,iscgem,iscgem913212,735731.7865856482,"near the north coast of New Guinea, Papua New Guinea",earthquake
+513,513,700371.2567708333,-7.331,155.548,20.0,6.7,mw,,,,,iscgem,iscgem913206,735731.7865856482,Solomon Islands,earthquake
+514,514,700365.0161226852,41.304,-124.694,15.0,6.4,mw,,,,,iscgemsup,iscgemsup913200,735792.7099768518,offshore Northern California,earthquake
+515,515,700358.432037037,24.599,90.853,15.0,7.2,mw,,,,,iscgem,iscgem913196,735731.7865856482,Bangladesh,earthquake
+516,516,700353.2862037037,-3.211,143.404,15.0,7.5,mw,,,,,iscgem,iscgem913192,735731.7865856482,"near the north coast of New Guinea, Papua New Guinea",earthquake
+517,517,700351.2559606482,8.957,126.468,35.0,6.5,mw,,,,,iscgem,iscgem913190,735731.7865856482,"Mindanao, Philippines",earthquake
+518,518,700324.1691435185,-6.447,146.159,15.0,6.2,mw,,,,,iscgem,iscgem913160,735731.7865856482,"eastern New Guinea region, Papua New Guinea",earthquake
+519,519,700323.0022916667,-1.02,-19.128,10.0,6.7,mw,,,,,iscgemsup,iscgemsup913159,735792.7099768518,central Mid-Atlantic Ridge,earthquake
+520,520,700314.8119791667,-30.557,-92.218,10.0,6.6,mw,,,,,iscgemsup,iscgemsup913152,735792.7099768518,southeast central Pacific Ocean,earthquake
+521,521,700312.4983796297,27.102,-110.122,10.0,6.8,mw,,,,,iscgemsup,iscgemsup913151,735792.7099768518,"Sonora, Mexico",earthquake
+522,522,700309.7525462963,-2.268,153.171,15.0,7.0,mw,,,,,iscgem,iscgem913148,735731.7865856482,"New Ireland region, Papua New Guinea",earthquake
+523,523,700309.7466087963,-29.292,-71.857,20.0,6.8,mw,,,,,iscgem,iscgem913147,735731.7865856482,"offshore Coquimbo, Chile",earthquake
+524,524,700309.6084143518,7.506,-34.933,15.0,7.3,mw,,,,,iscgem,iscgem913146,735731.7865856482,central Mid-Atlantic Ridge,earthquake
+525,525,700280.939224537,33.647,-117.433,10.0,6.7,mw,,,,,iscgem,iscgem913126,735731.7865856482,Southern California,earthquake
+526,526,700272.0356712963,-4.957,85.517,10.0,6.3,mw,,,,,iscgem,iscgem913116,735731.7865856482,South Indian Ocean,earthquake
+527,527,700213.2550694444,23.582,117.104,15.0,7.3,mw,,,,,iscgem,iscgem913072,735731.7865856482,"near the coast of Fujian, China",earthquake
+528,528,700207.2224537038,6.993,126.059,35.0,6.9,mw,,,,,iscgem,iscgem913057,735731.7865856482,"Mindanao, Philippines",earthquake
+529,529,700190.823263889,-0.197,134.11,25.0,6.3,mw,,,,,iscgemsup,iscgemsup913040,735792.7099768518,"near the north coast of Papua, Indonesia",earthquake
+530,530,700167.9518518519,15.592,-96.487,20.0,6.9,mw,,,,,iscgem,iscgem913745,735731.7865856482,"offshore Oaxaca, Mexico",earthquake
+531,531,700021.660011574,-41.481,176.437,15.0,6.6,mw,,,,,iscgem,iscgem913599,735731.7865856482,off the east coast of the North Island of New Zealand,earthquake
+532,532,700015.9959375,28.379,104.188,15.0,6.9,mw,,,,,iscgem,iscgem913594,735731.7865856482,"eastern Sichuan, China",earthquake
+533,533,700014.9114814815,-3.687,141.572,35.0,7.4,mw,,,,,iscgem,iscgem913586,735731.7865856482,"New Guinea, Papua New Guinea",earthquake
+534,534,699981.2428935185,-14.739,-173.562,15.0,8.0,mw,,,,,iscgem,iscgem913548,735731.7865856482,Samoa Islands region,earthquake
+535,535,699955.3663425926,54.934,-159.433,35.0,7.4,mw,,,,,iscgem,iscgem913517,735731.7865856482,south of Alaska,earthquake
+536,536,699925.768287037,-31.08,-176.461,15.0,8.2,mw,,,,,iscgem,iscgem913483,735731.7865856482,Kermadec Islands region,earthquake
+537,537,699923.496875,56.285,115.329,10.0,6.5,mw,,,,,iscgem,iscgem913481,735731.7865856482,"Buryatiya, Russia",earthquake
+538,538,699834.1150462963,56.136,163.168,20.0,7.9,mw,,,,,iscgemsup,iscgemsup913404,735792.7099768518,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+539,539,699828.0337731482,31.617,116.954,20.0,6.3,mw,,,,,iscgemsup,iscgemsup913399,735792.7099768518,"Anhui, China",earthquake
+540,540,699743.6465277778,49.755,157.998,15.0,7.3,mw,,,,,iscgem,iscgem913864,735731.7865856482,east of the Kuril Islands,earthquake
+541,541,699679.2775578704,29.73,80.745,20.0,7.0,mw,,,,,iscgem,iscgem913843,735731.7865856482,Nepal-India border region,earthquake
+542,542,699496.8480787037,11.542,-87.99,15.0,7.2,mw,,,,,iscgemsup,iscgemsup913768,735792.7099768518,near the coast of Nicaragua,earthquake
+543,543,699475.9107986111,50.459,179.051,15.0,7.0,mw,,,,,iscgem,iscgem913761,735731.7865856482,"Rat Islands, Aleutian Islands, Alaska",earthquake
+544,544,699462.2883449075,40.074,37.329,15.0,7.0,mw,,,,,iscgem,iscgem913755,735731.7865856482,central Turkey,earthquake
+545,545,699451.3475925926,-3.987,138.011,35.0,7.7,mw,,,,,iscgem,iscgem913750,735731.7865856482,"Papua, Indonesia",earthquake
+546,546,699451.2629050926,-3.196,135.731,25.0,7.1,mw,,,,,iscgem,iscgem913749,735731.7865856482,"Papua, Indonesia",earthquake
+547,547,699439.5561226852,-4.739,152.548,35.0,7.9,mw,,,,,iscgem,iscgem913746,735731.7865856482,"New Britain region, Papua New Guinea",earthquake
+548,548,699424.2951967593,41.711,79.177,20.0,6.5,mw,,,,,iscgem,iscgem913957,735731.7865856482,Kyrgyzstan-Xinjiang border region,earthquake
+549,549,699410.1106944444,27.7,91.64,15.0,6.5,mw,,,,,iscgem,iscgem913954,735731.7865856482,Bhutan,earthquake
+550,550,699378.3082523148,38.594,143.021,30.0,7.0,mw,,,,,iscgemsup,iscgemsup913949,735792.7099768518,"off the east coast of Honshu, Japan",earthquake
+551,551,699349.2870486111,40.258,-117.654,10.0,6.8,mw,,,,,iscgem,iscgem913944,735731.7865856482,Nevada,earthquake
+552,552,699339.343599537,14.484,38.688,10.0,6.2,mw,,,,,iscgem,iscgem913942,735731.7865856482,Eritrea-Ethiopia border region,earthquake
+553,553,699285.0635648149,54.121,162.052,20.0,7.3,mw,,,,,iscgem,iscgem913925,735731.7865856482,"near the east coast of the Kamchatka Peninsula, Russia",earthquake
+554,554,699194.2084490741,48.361,155.162,30.0,7.8,mw,,,,,iscgem,iscgem913898,735731.7865856482,Kuril Islands,earthquake
+555,555,699132.7911111111,23.359,123.492,20.0,7.3,mw,,,,,iscgem,iscgem913884,735731.7865856482,"southwestern Ryukyu Islands, Japan",earthquake
+556,556,699086.2865972222,42.179,13.585,15.0,6.7,mw,,,,,iscgem,iscgem913880,735731.7865856482,central Italy,earthquake
+557,557,699004.2630092592,4.239,128.141,35.0,7.4,mw,,,,,iscgem,iscgem914014,735731.7865856482,"north of Halmahera, Indonesia",earthquake
+558,558,698990.1105787037,32.604,76.181,20.0,6.3,mw,,,,,iscgem,iscgem914010,735731.7865856482,"Himachal Pradesh, India",earthquake
+559,559,698984.9216087963,37.629,30.021,15.0,7.0,mw,,,,,iscgem,iscgem914008,735731.7865856482,western Turkey,earthquake
+560,560,698924.9455902778,42.747,92.09,15.0,7.3,mw,,,,,iscgem,iscgem914001,735731.7865856482,"northern Xinjiang, China",earthquake
+561,561,698884.7968171296,-3.924,101.82,35.0,7.6,mw,,,,,iscgem,iscgem913990,735731.7865856482,"southern Sumatra, Indonesia",earthquake
+562,562,698854.5991550926,-1.829,136.943,15.0,8.1,mw,,,,,iscgem,iscgem913984,735731.7865856482,"Biak region, Indonesia",earthquake
+563,563,698738.1498263889,-36.292,-75.057,15.0,7.6,mw,,,,,iscgemsup,iscgemsup913964,735792.7099768518,"off the coast of Bio-Bio, Chile",earthquake
+564,564,698698.6513425926,24.245,102.227,15.0,6.7,mw,,,,,iscgem,iscgem914108,735731.7865856482,"Yunnan, China",earthquake
+565,565,698561.9268171296,-16.469,-73.823,25.0,7.7,mw,,,,,iscgem,iscgem914088,735731.7865856482,near the coast of southern Peru,earthquake
+566,566,698556.7160069444,48.117,156.005,15.0,6.9,mw,,,,,iscgem,iscgem914087,735731.7865856482,east of the Kuril Islands,earthquake
+567,567,698520.2064699074,-20.53,-173.854,25.0,7.7,mw,,,,,iscgem,iscgem914078,735731.7865856482,Tonga,earthquake
+568,568,698508.3981365741,43.603,25.952,15.0,6.6,mw,,,,,iscgem,iscgem914076,735731.7865856482,Bulgaria,earthquake
+569,569,698493.491099537,-4.685,151.767,15.0,7.2,mw,,,,,iscgem,iscgem914073,735731.7865856482,"New Britain region, Papua New Guinea",earthquake
+570,570,698416.3646296297,5.354,126.121,15.0,7.8,mw,,,,,iscgem,iscgem914043,735731.7865856482,"Mindanao, Philippines",earthquake
+571,571,698250.8690162037,7.299,136.888,15.0,7.5,mw,,,,,iscgem,iscgem16958211,735731.7865856482,Palau region,earthquake
+572,572,698199.0618402777,40.638,27.023,15.0,7.1,mw,,,,,iscgem,iscgem16958205,735731.7865856482,western Turkey,earthquake
+573,573,698168.345949074,3.332,33.566,10.0,6.0,mw,,,,,iscgemsup,iscgemsup16958200,735792.7099768518,Uganda,earthquake
+574,574,698121.1000462963,21.036,96.737,15.0,7.5,mw,,,,,iscgemsup,iscgemsup16958191,735792.7099768518,Myanmar,earthquake
+575,575,698001.6827893519,37.899,21.018,15.0,6.5,mw,,,,,iscgemsup,iscgemsup16958178,735792.7099768518,southern Greece,earthquake
+576,576,697962.8017592593,17.159,-99.994,30.0,7.3,mw,,,,,iscgem,iscgem16958175,735731.7865856482,"Guerrero, Mexico",earthquake
+577,577,697899.974988426,30.759,80.279,20.0,6.5,mw,,,,,iscgem,iscgem16958167,735731.7865856482,western Xizang-India border region,earthquake
+578,578,697840.9453356481,7.237,136.944,15.0,7.8,mw,,,,,iscgem,iscgem16958156,735731.7865856482,Palau region,earthquake
+579,579,697805.1719675926,8.546,127.103,15.0,7.7,mw,,,,,iscgem,iscgem16958154,735731.7865856482,Philippine Islands region,earthquake
+580,580,697778.6013078704,29.049,128.778,100.0,7.9,mw,,,,,iscgem,iscgem16958149,735731.7865856482,"northwest of the Ryukyu Islands, Japan",earthquake
+581,581,697770.4603009259,18.517,-102.442,30.0,7.6,mw,,,,,iscgem,iscgem16958148,735731.7865856482,"Michoacan, Mexico",earthquake
+582,582,697720.7600347223,30.46,56.305,15.0,6.5,mw,,,,,iscgem,iscgem16958141,735731.7865856482,central Iran,earthquake
+583,583,697706.6554050926,36.406,25.884,15.0,6.0,mw,,,,,iscgemsup,iscgemsup16958138,735792.7099768518,"Dodecanese Islands, Greece",earthquake
+584,584,697661.7785763888,38.331,72.628,15.0,7.3,mw,,,,,iscgem,iscgem16958134,735731.7865856482,Tajikistan,earthquake
+585,585,697615.97625,43.013,78.53,20.0,7.7,mw,,,,,iscgem,iscgem16958130,735731.7865856482,eastern Kazakhstan,earthquake
+586,586,697613.4291782407,37.334,66.571,35.0,6.7,mw,,,,,iscgem,iscgem16958129,735731.7865856482,central Afghanistan,earthquake
+587,587,697597.614525463,4.685,126.051,15.0,7.6,mw,,,,,iscgem,iscgem16958127,735731.7865856482,"Kepulauan Talaud, Indonesia",earthquake
+588,588,697594.4843402777,-6.351,31.27,15.0,7.3,mw,,,,,iscgemsup,iscgemsup16958124,735792.7099768518,"Lake Tanganyika region, Tanzania",earthquake
+589,589,697560.2513888889,-16.289,166.904,20.0,7.3,mw,,,,,iscgem,iscgem16958113,735731.7865856482,Vanuatu,earthquake
+590,590,697414.2713310185,-19.572,169.438,100.0,7.8,mw,,,,,iscgem,iscgem16958089,735731.7865856482,Vanuatu,earthquake
+591,591,697349.0155555556,25.911,123.973,235.0,8.1,mw,,,,,iscgem,iscgem16958079,735731.7865856482,northeast of Taiwan,earthquake
+592,592,697255.617650463,34.043,121.976,20.0,6.5,mw,,,,,iscgemsup,iscgemsup16958065,735792.7099768518,Yellow Sea,earthquake
+593,593,697175.9870601852,28.074,69.333,35.0,7.0,mw,,,,,iscgem,iscgem16958054,735731.7865856482,Pakistan,earthquake
+594,594,697093.4526736111,16.471,-99.427,20.0,7.5,mw,,,,,iscgem,iscgem16958045,735731.7865856482,"offshore Guerrero, Mexico",earthquake
+595,595,697070.901238426,35.387,70.251,200.0,7.7,mw,,,,,iscgem,iscgem16958043,735731.7865856482,"Hindu Kush region, Afghanistan",earthquake
+596,596,696954.6034722222,35.407,142.29,15.0,7.1,mw,,,,,iscgem,iscgem16958018,735731.7865856482,"off the east coast of Honshu, Japan",earthquake
+597,597,696922.4749652778,39.665,38.027,15.0,6.3,mw,,,,,iscgemsup,iscgemsup16958012,735792.7099768518,eastern Turkey,earthquake
+598,598,696905.1169907408,34.248,50.41,15.0,7.3,mw,,,,,iscgemsup,iscgemsup16958011,735792.7099768518,central Iran,earthquake
+599,599,696879.1808564814,38.0,15.349,15.0,7.0,mw,,,,,iscgem,iscgem16958009,735731.7865856482,"Sicily, Italy",earthquake
+600,600,696863.5381597222,26.948,96.773,15.0,7.0,mw,,,,,iscgem,iscgem16958007,735731.7865856482,Myanmar,earthquake
+601,601,696749.4120833334,31.228,87.835,15.0,6.9,mw,,,,,iscgemsup,iscgemsup16957997,735792.7099768518,western Xizang,earthquake
+602,602,696556.7592245371,29.278,100.656,15.0,6.7,mw,,,,,iscgem,iscgem16957984,735731.7865856482,"western Sichuan, China",earthquake
+603,603,696445.1831365741,39.179,70.585,20.0,7.4,mw,,,,,iscgem,iscgem16957975,735731.7865856482,Tajikistan,earthquake
+604,604,696275.243761574,-6.708,152.821,25.0,6.6,mw,,,,,iscgem,iscgem16957956,735731.7865856482,"New Britain region, Papua New Guinea",earthquake
+605,605,696256.2558449074,16.513,-97.304,30.0,7.8,mw,,,,,iscgem,iscgem16957951,735731.7865856482,"Oaxaca, Mexico",earthquake
+606,606,696155.2216550926,1.873,94.209,15.0,7.8,mw,,,,,iscgem,iscgem16957943,735731.7865856482,off the west coast of northern Sumatra,earthquake
+607,607,696142.7647106481,44.284,85.572,15.0,7.8,mw,,,,,iscgem,iscgem16957935,735731.7865856482,"northern Xinjiang, China",earthquake
+608,608,696083.6134027778,36.79,67.021,35.0,7.0,mw,,,,,iscgemsup,iscgemsup16957929,735792.7099768518,central Afghanistan,earthquake
+609,609,696057.6421412037,-4.144,-77.273,100.0,6.8,mw,,,,,iscgemsup,iscgemsup16957922,735792.7099768518,northern Peru,earthquake
+610,610,696043.6699421296,-6.249,147.281,35.0,8.0,mw,,,,,iscgemsup,iscgemsup16957920,735792.7099768518,"eastern New Guinea region, Papua New Guinea",earthquake
+611,611,696023.5746064815,7.415,40.813,15.0,6.5,mw,,,,,iscgemsup,iscgemsup16957915,735792.7099768518,Ethiopia,earthquake
+612,612,696015.027824074,-32.4,-71.4,35.0,8.2,mw,,,,,iscgemsup,iscgemsup16957911,735792.7099768518,"Valparaiso, Chile",earthquake
+613,613,696015.0077546296,51.853,178.18,110.0,8.3,mw,,,,,iscgem,iscgem16957912,735731.7865856482,"Rat Islands, Aleutian Islands, Alaska",earthquake
+614,614,695894.5503125,38.056,-122.403,10.0,7.7,mw,,,,,iscgem,iscgem16957905,735731.7865856482,"San Pablo Bay, California",earthquake
+615,615,695847.2605324074,41.736,80.031,20.0,6.7,mw,,,,,iscgemsup,iscgemsup16957887,735792.7099768518,"southern Xinjiang, China",earthquake
+616,616,695817.6501157407,0.955,-79.369,20.0,8.3,mw,,,,,iscgemsup,iscgemsup16957884,735792.7099768518,near the coast of Ecuador,earthquake
+617,617,695807.5760763889,34.167,138.101,300.0,7.4,mw,,,,,iscgem,iscgem16957883,735731.7865856482,"near the south coast of Honshu, Japan",earthquake
+618,618,695759.5139699074,37.216,38.83,15.0,5.6,mw,,,,,iscgem,iscgem16957879,735731.7865856482,eastern Turkey,earthquake
+619,619,695759.2954861111,38.153,38.645,10.0,6.8,mw,,,,,iscgemsup,iscgemsup603952288,735792.7099768518,eastern Turkey,earthquake
+620,620,695733.9209490741,39.114,23.974,15.0,7.4,mw,,,,,iscgemsup,iscgemsup16957878,735792.7099768518,Aegean Sea,earthquake
+621,621,695715.4593402778,43.096,41.664,15.0,6.4,mw,,,,,iscgemsup,iscgemsup16957875,735792.7099768518,Georgia (Sak'art'velo),earthquake
+622,622,695672.071550926,38.636,15.784,15.0,7.2,mw,,,,,iscgem,iscgem16957871,735731.7865856482,"Sicily, Italy",earthquake
+623,623,695625.1155324074,49.369,96.61,15.0,8.3,mw,,,,,iscgem,iscgem16957865,735731.7865856482,western Mongolia,earthquake
+624,624,695611.4032291666,49.709,98.483,15.0,8.3,mw,,,,,iscgem,iscgem16957859,735731.7865856482,central Mongolia,earthquake
+625,625,695515.0347106481,32.636,76.788,20.0,7.9,mw,,,,,iscgem,iscgem16957848,735731.7865856482,"Himachal Pradesh, India",earthquake
+626,626,695232.8754282407,52.864,160.445,30.0,7.7,mw,,,,,iscgem,iscgem16957819,735731.7865856482,"off the east coast of the Kamchatka Peninsula, Russia",earthquake
+627,627,695232.6150347223,51.565,161.417,15.0,7.5,mw,,,,,iscgemsup,iscgemsup16957820,735792.7099768518,"off the east coast of the Kamchatka Peninsula, Russia",earthquake
+628,628,694704.0743055556,15.0,-98.0,0.0,7.7,mw,,,,,iscgem,iscgem16957788,735731.7865856482,"off the coast of Oaxaca, Mexico",earthquake
+629,629,694591.8458333333,16.0,-93.0,0.0,7.8,mw,,,,,iscgem,iscgem16957778,735731.7865856482,"Chiapas, Mexico",earthquake
+630,630,694590.0736111111,18.0,146.0,0.0,7.5,mw,,,,,iscgem,iscgem16957777,735731.7865856482,"Alamagan region, Northern Mariana Islands",earthquake
+631,631,694559.125,40.0,77.0,0.0,7.7,mw,,,,,iscgem,iscgem16957769,735731.7865856482,Kyrgyzstan-Xinjiang border region,earthquake
+632,632,694434.0993055556,14.0,-91.0,0.0,7.5,mw,,,,,iscgem,iscgem16957763,735731.7865856482,Guatemala,earthquake
+633,633,694181.7729166667,40.0,144.0,0.0,7.5,mw,,,,,iscgem,iscgem16957736,735731.7865856482,"off the east coast of Honshu, Japan",earthquake
+634,634,694181.5423611111,-22.0,170.0,0.0,7.9,mw,,,,,iscgem,iscgem16957737,735731.7865856482,southeast of the Loyalty Islands,earthquake
+635,635,693897.3826388889,11.0,-66.0,0.0,7.7,mw,,,,,iscgem,iscgem16957719,735731.7865856482,"offshore Miranda, Venezuela",earthquake
+636,636,693877.5194444444,60.0,-142.0,0.0,7.7,mw,,,,,iscgem,iscgem16957718,735731.7865856482,Southeastern Alaska,earthquake
+637,637,693805.2909722222,-10.0,165.0,0.0,7.6,mw,,,,,iscgem,iscgem16957713,735731.7865856482,Santa Cruz Islands,earthquake
