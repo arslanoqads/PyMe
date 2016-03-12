@@ -1,0 +1,537 @@
+he Big Data Team at AT&T is looking for the very best to join us through our internship program. The right student will be given the opportunity to gain valuable experience through real world business cases and learn how data can be utilized to drive collaborative decisions that directly impact the business.
+Qualified students will have excellent written and verbal skills, basic data analytics knowledge and strong problem solving skills; communication and time management skills preferred. Student must be self-motivated and have the ability to quickly learn technical processes.
+
+This is a 16-week program designed for the student to work up to 20 hours per week while attending school. The curriculum may include one or more of the following disciplines:
+Data mining, statistics and analytical modeling
+Use of programming languages and technology, writing code, completing programming and creation of documentation
+Data selection, extraction and cleansing for corporate applications, including data warehouse and data marts
+Customer needs analysis and solution design
+Analyzing and defining markets, including competitive analysis and definition of product functionality
+
+If you are working towards a Bachelor’s or Master’s degree in STEM (Science, Technology, Engineering or Math), Business Analytics, Management Information Systems or a related field and have at least a 3.2 GPA, let’s connect.
+The Distribution Insights & Analytics (I&A) Organization is responsible for the sales analytics, digital marketing analytics, product analytics, predictive modeling and and the build out of our business intelligence environment including next generation analytics tools and infrastructure. I&A is multi site team with associates in Los Angeles, Irvine, and expanding into New York and San Francisco. I&A is looking for summer interns to work in the Los Angeles office.  Interns will gain exposure to many aspects of the North American Distribution business while interacting with a wide range of associates and management.
+
+ 
+
+Specific responsibilities could include:
+
+Develop an understanding of investors and advisor data, mutual fund industry, Capital business model, and marketing data
+Develop analysis and reporting in support of specific business priorities and goals
+Work on specific projects, focus areas include but not limited to:
+Advanced analytics – salesforce optimization, advisor segmentation, marketing analysis, and predictive modeling
+Business intelligence – data sourcing and reporting
+Financial, market/industry, and product analysis
+ 
+
+Internship program activities include:
+
+Meet and network with senior business leaders within the organization
+Team building activities with other interns
+Professional skills development and core values workshops
+Participation in a three-day intern orientation in Irvine and in Los Angeles (provides broad department overviews and interaction with associates across the organization)
+Opportunity to participate in community service events
+ 
+
+Qualifications and skills include:
+
+Pursuing a degree in statistics, mathematics, or finance related  (min 3.00 GPA)
+Excellent verbal and written communication skills
+Good problem solving skills; creativity; intellectual curiosity
+Basic knowledge of financial instruments and completion of a statistics-related course
+Ability work both independently and in a collaborative/group setting
+Proficient in MS Excel
+Programing knowledge is a plus  (e.g., R, MATLAB, MS Access, or SQL)
+Embraces and incorporates feedback for continuous development 
+ 
+
+Basic Qualifications
+
+These are the minimum qualifications you need to be considered for this position:
+Strong analytical and problem solving skills
+Basic understanding of SAS
+Experience with collecting and analyzing data and reporting on the results
+Effective verbal and written communication skills
+Demonstrated strong written and verbal communication skills to technical and non-technical audiences
+Demonstrated strong attention to detail
+Ability to adapt to a rapidly changing business environment and manage multiple priorities
+Proficient in Microsoft Office (Excel, Word, PowerPoint)
+Preferred Qualifications
+
+Proficient with SAS tools and functionality (e.g., Enterprise Guide, Web Report Studio)
+Familiarity with SQL
+Proficient in at least 1 programming language (e.g., Python, Java, C, etc.)
+Required Education
+
+Senior or recent graduate with a Bachelor's degree in a technical field such as Statistics, Mathematics, Computer Science, Economics or a related quantitative field
+3.0 G.P.A.
+Preferred Education
+
+Working towards a Master's degree in a quantitative field
+Additional Information
+
+Internship Eligibility:
+You must currently be enrolled in an accredited college or university and taking at least one class -OR- be a recent graduate of an accredited college or university within the last six (6) months -OR- be currently participating in the Disney College program, Disney Culinary Program or Disney Professional Internship Program in order to qualify for this internship.
+Must be at least 18 years of age
+Must not have completed one year of continual employment on a Disney internship or program. Note: Once you have completed one consecutive year of employment on a Disney internship or program, there must be a minimum 6 month gap before the start of a new internship or program
+Must possess unrestricted work authorization
+Must provide full work availability
+Must provide own transportation to/from work
+Current Active Disney Cast Members must meet Professional Internship transfer guidelines (for Walt Disney World Cast Members this is no more than four points and one reprimand in the last six months; for Disneyland Cast Members this is six months of consecutive service and a performance record clear of any disciplinary issues (warnings, suspensions, etc.) for at least six months)
+Program Length: The approximate dates of this internship are June 2016 through January 2017. Interns must be fully available for the duration of the internship.
+
+Housing: A limited amount of company-sponsored housing is available on a first-come, first-served basis. 
+
+Recommendation – Print This Role Description: Strong candidates may be invited to complete a phone interview. We strongly encourage applicants to print a copy of this role description so they can refer to it in the event they are selected for a phone interview. Note that this role description will not be accessible once the posting is closed 
+
+Materials Required: In order to be considered, you must upload a copy of your resume and include major, expected graduation date (month/year) and cumulative GPA from your current school transcript (please, no rounding).
+College transcripts (official or unofficial) - Please upload your transcript while completing the online application
+To upload this document:
+Log into your dashboard at www.DisneyInterns.com
+Click the link labeled “Edit Profile Info”
+Click on the “Attachments” Tab
+Be sure your document is in the required title format: FirstName_LastName_Type (i.e. Mickey_Mouse_Transcript)
+Select document type of “Other”
+At Gallagher Bassett Services, Inc. (GB) we are constantly seeking skilled professionals who are up for a challenge and take exceptional performance to heart. The professionals we hire help us maintain our reputation as one of the most progressive property/casualty third party claims service organizations in our industry and throughout the world.  Gallagher Bassett provides services to Fortune 1000 companies throughout 100 offices worldwide.  For the past several years GB has ranked among the largest TPA's by Business Insurance Magazine and was also a recipient of the Business Insurance Readers' Choice award for "Best Third Party Claims Administrator."  If you're looking for a professional career with an industry leader then you have come to the right place.  Wherever your interests lie, we're sure you will agree on one thing: our continued prosperity hinges on our greatest resource --- our people.
+
+Position Summary:
+ 
+The purpose of this Summer Internship Program is to provide each intern with a chance to assess a career interest in one or a variety of corporate functions and disciplines.  During the internship, the intern will support various business units to gain practical knowledge in a corporate environment.  Assist with as projects assigned and support the projects and business needs as necessary.
+ 
+Qualifications
+ 
+Required:
+Students pursuing a Bachelor’s degree from an Accredited University.
+Basic to intermediate proficiency in Microsoft Excel, strong analytical and problem-solving skill set.
+Excellent communication and interpersonal skills, ability to work independently with minimal supervision and strong flexibility and adaptability skills.
+U.S. Eligibility Requirements:
+Interested candidates must submit an application and resume/CV online to be considered
+Must be 18 years of age or older by June 1st, 2011
+Expected graduation before May 1st, 2013
+Must be willing to submit to a background investigation; any offer of employment is conditioned upon the successful completion of a background investigation
+Must have unrestricted work authorization to work in the United States. For U.S. employment opportunities, Arthur J Gallagher & Co. hires U.S. citizens, permanent residents, asylees, refugees, and temporary residents. Temporary residence does not include those with non-immigrant work authorization (F, J, H or L visas), such as students in practical training status. Exceptions to these requirements will be determined based on shortage of qualified candidates with a particular skill. Arthur J Gallagher & Co. will require proof of work authorization
+Must be willing to execute the Company's Employee Agreement or Confidentiality/Non-Disclosure Agreement which requires, among other things, post-employment obligations relating to non-solicitation, confidentiality and non-disclosure
+ 
+
+Job: Administrative Services
+Primary Location: United States-Illinois-Itasca 
+Organization: Gallagher Bassett Services
+Schedule: Full-time
+ob Description
+ADP is hiring an intern. In this position you will contribute to project-based deliverables aligned to your field of study. You will interact with professionals who will guide and support you as you enhance your skills while gaining relevant experience.
+
+As an ADP IT team intern, you will work with our technical team on a variety of projects and assignments in the areas of Information Technology, Information Systems, Computer Science, Computer Engineering and other technical disciplines. Whether you want real-world experience with programming, scripting, coding, designing, web development, mainframe, hardware or troubleshooting, we have opportunities to gain experience in the following areas:
+Support, monitor, test and troubleshoot hardware and software problems
+Interact with cross-functional teams, technology and business partners and leaders within ADP
+Work in a team environment, with IT Support, Project and Service Management
+Participate in creating quantitative and qualitative reports and presentations
+Improve processes by analyzing and identifying inefficiencies and recommending solutions
+Participate in discussions and contribute to business solutions as part of a project team
+ 
+Unlock Your Career Potential: Internships at ADP.At ADP we are driven by your success. We engage your unique talents and perspectives. We welcome your ideas on how to do things differently and better. In your efforts to achieve, learn and grow, we support you all the way. If success motivates you, you belong at ADP.
+
+We strive for every interaction to be driven by our CORE values: Insightful Expertise, Integrity is Everything, Service Excellence, Inspiring Innovation, Each Person Counts, Results-Driven, & Social Responsibility.
+
+QUALIFICATIONS REQUIRED:
+
+We are seeking students with drive and motivation, who desire real corporate experience and want to make a valuable contribution to ADP:
+Must be a matriculated college student, GPA of 3.0 or higher preferred
+PREFERRED QUALIFICATIONS:Preference will be given to candidates who have the following qualifications:
+Working towards 4 year or graduate degree
+Preferred areas of concentration: Human Resource Management, Organizational Development, Management Information Systems or Industrial Engineering
+Excellent communication (verbal, written and reporting) skills
+Able to demonstrate attention to detail, superb organizational and follow up skills
+Ability to work effectively under time constraints while maintaining a positive service attitude
+Exhibits leadership skills and works well in a collaborative environment
+Proactive, can-do attitude and a desire to learn
+Ability to recognize and deal appropriately with sensitive and confidential information
+Quantitative, analytical, process and troubleshooting skills
+Project management and research skills
+Ability to interact with all levels of the organization
+Ability to organize data, analyze data and produce reports is critical
+Ability to conduct product research for various scenarios (e.g., industry, size) to support story development. Looking towards having a basket of examples that demonstrate how various metrics and benchmarks can be used together to identify and develop solutions for various inefficiencies and problems (e.g., costs, turnover)
+Software in the Cloud. Experts on the Ground: 
+ADP powers the working world with comprehensive solutions that drive business success. Consistently named one of the "Most Admired Companies" by FORTUNE® Magazine, and recognized by Forbes® as one of "The World's Most Innovative Companies," ADP has over a half-million clients around the globe and 65 years of experience as one of the largest providers of human capital management solutions world-wide.
+At ADP, we believe that diversity fuels innovation. ADP is committed to equal employment opportunities regardless of race, color, genetic information, creed, religion, sex, sexual orientation, gender identity, lawful alien status, national origin, age, marital status, non-job related physical or mental disability, or protected veteran status. We support an inclusive workplace where associates excel based on personal merit, qualifications, experience, ability, and job performance.
+
+
+
+At Disney, we're storytellers. We make the impossible, possible. We do this through utilizing and developing cutting-edge technology and pushing the envelope to bring stories to life through our movies, products, interactive games, parks and resorts, and media networks. Now is your chance to join our talented team as a Professional Intern in any of our segments that delivers unparalleled creative content to audiences around the world.
+
+Department Overview: The Walt Disney Parks & Resorts (WDP&R) Management Science & Integration (MSI) consulting team is responsible for supporting clients across The Walt Disney Company including Parks and Resorts, Media Networks (ABC and ESPN), Studio Entertainment and Disney Interactive Media. MSI leverages technology, data analytics, optimization, statistical and econometric modeling to explore opportunities, shape business decisions and drive business value. MSI seeks forward-thinking team members who are passionate about delivering quality results and enjoy working closely with business partners on both strategic and tactical challenges. 
+
+Responsibilities
+
+The Management Science & Integration team is looking for a 6-month, full-time graduate intern to support marketing ROI projects in Burbank, CA. The intern will support the team by creating ongoing forecast processes and data, assisting with ad hoc marketing analytics and science improvements, maintaining documentation, and helping to develop client deliverables.
+
+Key responsibilities include:
+Data collection, validation and maintenance via SAS, R or Python
+Generate periodic and ad hoc forecasts and maintain results
+Apply analytics to address various marketing business questions
+Develop automated analytical solutions
+Maintain system documentation
+Participate in business review process
+Perform industry research and benchmark analysis
+Prepare client deliverables
+Basic Qualifications
+
+These are the minimum qualifications you need to be considered for this position:
+Strong Analytical and Problem Solving skills
+Basic understanding of SAS coding
+Experience with collecting and analyzing data and reporting on the results
+Effective verbal and written communication skills
+Demonstrated strong written and verbal communication skills to technical and non-technical audiences
+Demonstrated strong attention to detail
+Ability to adapt to a rapidly changing business environment and manage multiple priorities
+Proficient in Microsoft Office (Excel, Word, PowerPoint)
+Preferred Qualifications
+
+Familiarity with SAS or SQL to perform data manipulation or modeling
+Basic understanding of R or Python
+Background in statistics
+Required Education
+
+Bachelor's degree in Statistics, Mathematics, Computer Science, Economics, Operation Research, Engineering, or a related quantitative field
+Pursuing (or recently graduate with) a Master's or PhD degree in on of the above quantitative fields
+GPA of 3.0 or higher
+Additional Information
+
+Internship Eligibility:
+You must currently be enrolled in an accredited college or university and taking at least one class -OR- be a recent graduate of an accredited college or university within the last six (6) months -OR- be currently participating in the Disney College program, Disney Culinary Program or Disney Professional Internship Program in order to qualify for this internship.
+Must be at least 18 years of age
+Must not have completed one year of continual employment on a Disney internship or program. Note: Once you have completed one consecutive year of employment on a Disney internship or program, there must be a minimum 6 month gap before the start of a new internship or program
+Must possess unrestricted work authorization
+Must provide full work availability
+Must provide own transportation to/from work
+Current Active Disney cast members must meet Professional Internship transfer guidelines (for Walt Disney World cast members this is no more than four points and one reprimand in the last six months; for Disneyland cast members this is six months of consecutive service and a performance record clear of any disciplinary issues (warnings, suspensions, etc.) for at least six months)
+Program Length: The approximate dates of this internship are June 2016 through January 2017. Interns must be fully available for the duration of the internship.
+Housing: Candidate must be able to provide their own housing.
+Recommendation – Print This Role Description: Strong candidates may be invited to complete a phone interview. We strongly encourage applicants to print a copy of this role description so they can refer to it in the event they are selected for a phone interview. Note that this role description will not be accessible once the posting is closed.
+
+Materials Required:
+College transcripts (official or unofficial) - Please upload your transcript while completing the online application. Applications will not be considered without a transcript. To upload this document:
+Log into your dashboard at www.DisneyInterns.com
+Click the link labeled “Edit Profile Info”
+Click on the “Attachments” Tab
+Be sure your document is in the required title format: FirstName_LastName_Type (i.e. Mickey_Mouse_Transcript)
+Select document type of “Other”
+In this role you'll work on supporting diverse marketing and sales efforts across all stages of the sales process. This is a great chance to get exposure to multiple teams within CB Insights and work on a variety of projects including digital events, live events, social media strategy, supporting our sales prospecting, and potentially diving into some projects involving analytics and reporting around our sales organization. You'll walk away with a top to bottom understanding of how an enterprise sales organization works including the different roles involved all while helping drive revenue growth.
+
+Key Responsibilities:
+
+Social Media listening & engagement 
+Tracking press mentions
+Event admin & organization including researching future events to attend
+Email and prospect list building
+Prospect research
+Possibility of more analytical work for the right person
+Learning and creating landing pages for marketing
+Required Experience and Qualifications:
+
+Available for 12 week summer internship
+Attention to detail 
+Ability to complete tasks with direction 
+Desire to learn/interest in both marketing and sales 
+Positive and curious attitude 
+Know your way around technology (Google Drive, Office, Power Point) 
+Familiar with Excel
+Interest in emerging tech, venture capital, or finance
+Active on social media (preference)
+Apply for this Job* Required
+ 	(Optional)
+	
+DESCRIPTION:
+The Digital Analytics Intern will work in the Business Intelligence department and provide analytic support to the Research, Content, and Operations teams.
+
+Responsibilities:
+Producing regular (e.g., weekly and monthly) ad-hoc reports of digital traffic, user engagement, and content production for various products and platforms
+Gathering requirements from stakeholders of a multifunctional team to produce their required reports and sometimes continuously fine-tune reporting formats
+Learning to pull raw data from a multitude of analytics platforms and creating presentable reports in Excel and PowerPoint
+Assisting in creating data analyses and presentations as needed
+
+:
+Working on Mondays and Tuesdays required, with regular weekly attendance a must
+An academic background in or a strong interest in analytics, statistics, mathematics, or related fields required
+Basic skills in Microsoft Excel, PowerPoint, Word, and Outlook preferred
+Ability to work fast under pressure of meeting the deadlines of multiple reporting requirements on a weekly and/or monthly basis required
+Willingness to work on routine data reporting tasks, e.g., weekly and monthly, required
+Strict attention to detail and accuracy in data preferred
+Prior experience in a professional environment, particularly in a team environment, preferred
+Graduate students or College Juniors and Seniors with GPA 3.5 preferred, but open to other students with an outstanding academic record and a strong interest in digital analytics
+Must be a self-motivated, quick-learner with strong analytical, organizational, time-management, and communication skills
+
+EEO STATEMENT:
+Equal Opportunity Employer Minorities/Women/Veterans/Disabled
+
+1stdibs is the world’s largest online luxury marketplace for one-of-a-kind products. It has become the go-to source for the world's leading interior designers and consumers to find antiques, modern furniture, jewelry, vintage fashion and fine art. 
+
+Backed by Benchmark Capital, Index Ventures, Spark Capital, and Alibaba, 1stdibs is a unique blend of expert curators and seasoned internet executives from companies including Ebay, Gilt, Google, FreshDirect, Mlb.com and Twitter. 
+
+We're seeking a Data & Analytics Intern that will support our analytics team develop compelling points of view using data gathered around the most beautiful things on Earth. 
+
+In this role, you will explore the inner workings of a luxury ecommerce startup and acquire a nuanced understanding of the business challenges across Marketing, Product and Dealer Relations in order to translate their data into actionable insights. 
+
+To succeed, you will become intimately familiar with our data sources and infrastructure and also become an expert in an arsenal of analytical tools, including R, SQL and enterprise solutions like Tableau. You will develop and refine your critical thinking skills through the exploration of business questions around supply & demand, customer intent and inventory mix. 
+
+You will also have the opportunity to take ownership of independent projects that can make a significant impact on 1stdibs' growth and success. 
+
+This position is a paid internship, with the prospect of full-time employment. If this sounds exciting to you, and you think the below describes you, please apply: 
+
+You have a strong interest in learning the business applications of data analysis
+You are detail-oriented and enjoy not only finding problems but fixing them
+Knowledge of Google Analytics, Omniture, HTML | Javascript
+You have strong time management and communication skills
+These are positive factors, but not requirements:
+Experience with SQL and relational databases
+You love and/or really know design and the merchandise we sell
+
+
+Essential Duties and Responsibilities 
+Evaluate information collections for viable threat intelligence
+Process both raw and technically reviewed data
+Conduct qualitative and quantitative analysis of data to identify threat actors’ motives, targets, and intentions
+Assess the implications of cybersecurity incidents in geopolitical and industry-specific contexts
+Convey both verbally and in writing the importance and relevance of findings
+Required Experience 
+Experience conducting qualitative and quantitative analysis on large data sets
+Experience in intelligence analysis, risk analysis, and/or policy analysis
+Familiarity with the cyber threat landscape
+Required Skills 
+Ability to think critically and properly qualify analytic assessments from facts
+Ability to provide concise, fact-based communications (both verbal and written)
+Ability to interpret internal information sources and open-source collections
+Ability to master and communicate complex subjects
+Ability to work both independently and on a team,
+Ability to work to a deadline, with some same-day turn-around
+Desired Skills 
+Familiarity with command-line interfaces
+Familiarity with databases
+Demonstrated ability to take the initiative in exploring technical topics
+
+8 days ago original job
+
+Position Summary:
+The Market Data Analyst will report to the Manager of Customer Analytics in the Marketing department.  They will be charged with a project to uncover insights and opportunities for customer experience improvements from our ongoing customer satisfaction survey data. The intern will have a 9-120 day program geared toward improving satisfaction across all customer touch points. Tasks will include:
+Analyze customer experience data collected utilizing correlations, cross tabs, comment reviews and other means to understand the story of what our customers are telling us about their experiences.
+Understand the critical customer touch points across all functions in the organization 
+Use best-in-class Analytics & Business Intelligence tools (Tableau, SPSS, R) to test hypotheses, uncover insights, and develop visualizations
+Recommend process changes based on customer insights.
+Develop executive-level presentations to illustrate data insights and drive key decision-making
+Perks/Benefits:
+Enjoy the benefits of working at ADT`s Boca Raton headquarters where all employees have free access to the gym, a subsidizes cafeteria, and even Starbucks! This position is ideal for a recent MBA graduate or someone soon to graduate from an MBA program that has an interest to work with great industry mentors and possibly have the opportunity to work long term for ADT.
+Qualifications
+ 
+Education/Work Experience Required:
+MBA candidate or recent graduate from MBA program with emphasis in market research, decision sciences, mathematics/statistics, data analytics, marketing, or other pertinent fields.
+Core Competencies:
+Strong verbal and written communication skills
+Proficient knowledge of Microsoft office
+Comfortable manipulating large amounts of data
+Attention to detail
+Strong organizational skills
+Comfortable speaking to senior leaders
+Familiar with market research and survey design
+KEY RESPONSIBILITIES
+
+Analyze sales data for trends and report findings internally. 
+Conduct a B2B2C customer analysis by gathering and interpreting customer data and consumer surveys.
+Plan and conduct primary research studies to analyze the usability and effectiveness of our products and services.
+Collaborate with other teams to support various messaging and product tests as well as user experience improvement initiatives.
+Conduct special projects as directed by the Director of Marketing Analytics. 
+Various other research activites as assigned.
+KEY REQUIREMENTS/SKILLS/EXPERIENCE
+
+Minimum Qualifications: 
+Must be a Junior or Senior in college pursuing a degree. 
+Major preferred: Business Administration, Mathematics, Statistics, Economics, or related field.
+
+Knowledge, Skills and Abilities: 
+Extensive quantitative analysis experience: thorough knowledge of Microsoft Excel and similar tools.
+Interest in exploring customer data and identifying trends. 
+Experience summarizing and reporting data findings. 
+Excellent grammar and proofreading habits. 
+Flexability, curiosity, and enthusiasm about projects. 
+Ability to build a trusting rapport and relationship with internal and external customers. 
+Flexibility: ability to adapt to on-going change and work in a fast-paced, deadline intensive environment.
+Excellent communication skills: oral and written. 
+MS SQL, Microsoft Excel, PowerPoint, and Outlook.
+Reference Code
+
+
+Analyze Anthropologie digital data to answer questions about online behavior including channel and device preferences, website usability and product performance
+Leverage Excel to develop and maintain automated reporting processes with guidance from the team
+Conceptualize web testing ideas and assist with development, execution and measurement of said tests
+Produce regularly scheduled reports on time and QA data for accuracy
+Assist the team with ad-hoc requests as needed
+Complete analysis projects from start to finish, with hypothesis development, data analysis, insights, and formulate recommendations
+
+
+Candidate must have strong quantitative skills and high attention to detail.
+Experience processing and analyzing data using Excel is required
+Experience with Google Analytics, IBM Digital Analytics and/or Adobe Analytics a plus
+Excellent written and verbal communication skills
+Self-motivated to continuously improve and learn new concepts and skills.
+
+Education
+Graduation track in Communication, Analytics, Business, or a related field.
+
+The Job
+
+Our rapidly growing Seattle office is currently looking for a Data & Analytics Intern for our Summer Program. In this role you will analyze and interpret agency clients’ internal customer data and external data sources to support business decision-making.
+
+Development and implementation of segmentation, test and controls and overall analytics to improve the effectiveness of marketing actions
+
+ 
+
+Responsibilities
+
+Handle data preparation and exploratory data analysis portions of a project
+Coordinate data feeds and updates
+Perform diagnostics
+Produce descriptive statistics
+Perform data transformation
+Assist in model development efforts using multivariate statistical techniques (regression, CHAID, factor, cluster, etc.)
+Prepare functional specifications for set up of systems and processes
+Contribution in written analysis and presentation
+Consistency in delivering error-free work, on time, at standards that meet or exceed agency client and agency expectations
+Contribution to project planning and scheduling
+ 
+Specific Requirements:
+Pursuing a BA/BS degree in Statistics, Operations Research, Economics, Mathematics or related field
+
+Collaboration and team-building skills, and demonstrated experience working with a wide range of disciplines.
+Strong analytical skills with solid foundation in statistical procedures.Experience in one or more of the following:ANOVA, CHAID, cluster analysis, factor analysis, multivariate regression analysis.
+Complete comfort with mainframe and personal computer environment
+Excellent verbal, written communication and presentation skills.
+
+Experience with Microsoft Office, PowerPoint, Word, Outlook, etc.
+ 
+EEO employer
+
+The purpose of this Summer Internship Program is to provide each intern with a chance to assess a career interest in one or a variety of corporate functions and disciplines. During the internship, the intern will support various business units to gain practical knowledge in a corporate environment. Assist with as projects assigned and support the projects and business needs as necessary.
+Qualifications
+Required:
+Students pursuing a Bachelor’s degree from an Accredited University.
+Basic to intermediate proficiency in Microsoft Excel, strong analytical and problem-solving skill set.
+Excellent communication and interpersonal skills, ability to work independently with minimal supervision and strong flexibility and adaptability skills.
+U.S. Eligibility Requirements:
+Interested candidates must submit an application and resume/CV online to be considered
+Must be 18 years of age or older by June 1st, 2011
+Expected graduation before May 1st, 2013
+Must be willing to submit to a background investigation; any offer of employment is conditioned upon the successful completion of a background investigation
+Must have unrestricted work authorization to work in the United States. For U.S. employment opportunities, Arthur J Gallagher & Co. hires U.S. citizens, permanent residents, asylees, refugees, and temporary residents. Temporary residence does not include those with non-immigrant work authorization (F, J, H or L visas), such as students in practical training status. Exceptions to these requirements will be determined based on shortage of qualified candidates with a particular skill. Arthur J Gallagher & Co. will require proof of work authorization
+Must be willing to execute the Company's Employee Agreement or Confidentiality/Non-Disclosure Agreement which requires, among other things, post-employment obligations relating to non-solicitation, confidentiality and non-disclosure
+Gallagher believes that all persons are entitled to equal employment opportunity and does not discriminate against nor favor any applicant because of race, color, religion, sex, age, veteran status, disability, national origin, or any other legally protected status. Equal employment opportunity will be extended in all aspects of the employer-employee relationship, including, but not limited to, recruitment, hiring, training, promotion, transfer, demotion, compensation, benefits, layoff, and termination. In addition, Gallagher will make reasonable accommodations to known physical or mental limitations of an otherwise qualified applicant with a disability, unless the accommodation would impose an undue hardship on the operation of our business.
+Job ID 23162
+
+ESPONSIBILITIES include but are not limited to:
+
+Coordinating survey research efforts for the Houston Rockets and Toyota Center
+Implementing and executing post-event/internal surveys; fulfilling survey prizes
+Organizing survey data and performing database entry
+Preparing survey summary reports for various departments
+Coordinating market research efforts for the Houston Rockets and Toyota Center
+Compiling and analyzing market research data
+Preparing market research reports for marketing and corporate sales efforts
+Compiling targeted lead lists for ticket, suite, and corporate sales teams
+General support of the Strategy department
+Demonstrates our One Team philosophy of Passion, Courage, Accountability, Customer Focus, Teamwork, Fairness and Participation. 
+
+ MINIMUM QUALIFICATIONS:
+
+Junior or Senior in college pursuing business, economics, statistics, market research, or marketing preferred.
+Candidate should be self-motivated, organized, professional, mature, analytical, and extremely detail-oriented
+Prior experience in finance, marketing, or related field
+Intermediate to strong knowledge of basic statistics and the ability to communicate that knowledge to others that do not possess the same statistical background
+Experience with manipulating large data sets
+Proficient with SPSS as well as Microsoft Excel, Word, and PowerPoint applications
+PHYSICAL & MENTAL REQUIREMENTS:
+
+ While performing the duties of the job, the employee is regularly required to stand, sit, walk, handle or feel, reach, stoop, kneel, crouch or crawl, talk and hear.
+The vision requirement includes close vision and ability to adjust focus. 
+Nature of position requires physical mobility and the ability to lift a minimum of 20 pounds.
+Must have ability to adjust to changing work hours and locations as needed. 
+Note: When you apply for this job online, you will be required to answer the following questions:
+
+
+
+Work with the team to provide analysis of website traffic for key clients
+Collaborate with Director of Analytics and Senior Analyst to make specific and actionable client recommendations
+Grow and develop as an Analytics intern in the digital space
+You bring
+
+Bachelors Degree or coursework in a related field; Analytics, Marketing  
+Knowledge of multiple Analytical platforms such as Google Analytic
+
+Responsibilities
+Develop, document, test, and debug new and existing software systems and/or applications.
+Participate in full development life cycle.
+Support, maintain, and document software systems and application functionality.
+Analyze business needs to determine technical requirements. 
+ 
+Qualifications
+Understanding of the full product development lifecycle (design, development and testing)
+Strong software development skills in JAVA
+RDBMS (Oracle, MySQL, Postgresql, …) related experience a plus
+Previous Big Data experience (Hadoop Map/Reduce) a plus.
+Excellent written and oral communication skills allowing you to convey technical information in an unambiguous and accurate manner
+Self-motivated, willing to learn new concepts and products quickly
+Strong curiosity and analytical skills to troubleshoot complex problems
+Good understanding of web technologies
+Ability to work at least 20 hours per week
+Minimum Junior in university 
+Previous internships a plus
+Demandware is committed to providing Equal Employment Opportunity to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, ancestry, sexual orientation, handicap or disability, Vietnam-era, special veteran, or any other legally protected status. This policy is established and administered in accordance with all applicable federal and state laws.
+Apply for this job online
+Refer this job to a friend
+Share on your newsfeed
+Go back to the welcom
+
+Position Description
+SRC, Inc. is currently looking for a data scientist intern to work out of their headquarters office in Syracuse, N.Y. As an intern, you will tasked developing concepts and algorithms for our Advanced Analytics group. The ability to extract knowledge from big data terabytes and be able effectively communicate your findings to a variety of audiences will also be skill we will help you develop. In addition, you will collaborate with other data scientists, software engineers, researchers in the DoD and industry, and subject matter experts in intelligence, radar, electronic warfare, and chemistry/biology. As a member of our team, it is vital you are able to think outside the box and bring innovative and cutting-edge technology and techniques to the table on a daily basis. Your expertise at SRC in big data analytics will help develop the next generation of military, cyber and critical infrastructure defenses.
+
+Responsibilities
+- Participate in predictive modeling and data mining
+- Participate in trend, pattern and statistical analysis
+- Participate in analysis of structured and unstructured data
+- Work independently and collaboratively in a project team
+
+Position Requirements
+- Be in a sophomore standing or above
+- Experience cleaning and manipulating data
+- Experience with implementing algorithms
+- Exceptional creative, critical thinking and problem solving skills
+- Excellent interpersonal and communication skills
+
+Preferred Requirements
+- Experience using statistical analysis tools such as R and RapidMiner
+- Experience with analyzing large volumes of data
+- Experience with developing complex algorithms
+- Experience with machine learning and natural language processing
+
+Security Requirements- Must be a U.S. citizen. Applicants selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information.
+
+ABOUT US:
+Combining the assets of CBS’s owned and operated television and radio stations, CBS Local Digital Media brings together the most trusted brands in media offering visitors a truly "local" experience. Two dozen major market specific portals, music and lifestyle websites, apps and local commerce platforms take an active role in reaching over 50 million unique monthly consumers with extensive coverage of news, traffic, weather, sports and entertainment headlines, as well as CBS Local Offers, Best of Guides, and business directories.
+Live audio streams and a library of on-demand video from all CBS local market stations are available allowing consumers to experience award-winning original content whether at home, the office or on the go.
+CBS Local is a subsidiary of CBS RADIO, one of the largest major-market broadcast media operators in the United States and the undisputed leader in news and sports radio. Producing original audio and video content, live events and exclusive programming broadcast via on-air, online and mobile platforms, CBS RADIO reaches more than 72 million consumers nationwide each week. As a part of CBS Corporation, the division owns and operates 117 radio stations in 26 markets - including the top 10 as ranked by Nielsen Audio - as well as an extensive array of digital assets. CBS RADIO distributes its programming via AM, FM and HD Radio stations, Radio.com and CBS Local Digital Media apps, making engaging with audiences easier than ever before. For more information, please visit www.cbsradio.com.
+
+DESCRIPTION:
+The Digital Analytics Intern will work in the Business Intelligence department and provide analytic support to the Research, Content, and Operations teams.
+
+es:
+Producing regular (e.g., weekly and monthly) ad-hoc reports of digital traffic, user engagement, and content production for various products and platforms
+Gathering requirements from stakeholders of a multifunctional team to produce their required reports and sometimes continuously fine-tune reporting formats
+Learning to pull raw data from a multitude of analytics platforms and creating presentable reports in Excel and PowerPoint
+Assisting in creating data analyses and presentations as needed
+
+:
+Working on Mondays and Tuesdays required, with regular weekly attendance a must
+An academic background in or a strong interest in analytics, statistics, mathematics, or related fields required
+Basic skills in Microsoft Excel, PowerPoint, Word, and Outlook preferred
+Ability to work fast under pressure of meeting the deadlines of multiple reporting requirements on a weekly and/or monthly basis required
+Willingness to work on routine data reporting tasks, e.g., weekly and monthly, required
+Strict attention to detail and accuracy in data preferred
+Prior experience in a professional environment, particularly in a team environment, preferred
+Graduate students or College Juniors and Seniors with GPA 3.5 preferred, but open to other students with an outstanding academic record and a strong interest in digital analytics
+Must be a self-motivated, quick-learner with strong analytical, organizational, time-management, and communication skills
+
