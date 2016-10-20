@@ -34,7 +34,7 @@ def sentiment_gauge(sentiment_score):
         "textinfo": "label",
         "textposition": "outside"
     }
-    runfile='/var/lib/openshift/56bc1b8c0c1e667ea0000027/app-root/repo/.openshift/cron/hourly/runtime.log'
+    runfile='/runtime.log'
     #runfile='kashmir_cloud.png'    
     (mode, ino, dev, nlink, uid, gid, size, atime, mtime1, ctime) = os.stat(runfile)
 
@@ -124,11 +124,11 @@ def sentiment_gauge(sentiment_score):
     
     fig = {"data": [base_chart],
            "layout": layout}
-    py.sign_in('kashmir_senti', '6kq6ybzlj6')
+    py.sign_in('xxx', 'xxx')
     py.plot(fig, filename='gauge-meter-chart')
 
 
-ks='/var/lib/openshift/56bc1b8c0c1e667ea0000027/app-root/data/twitter_kashmir.txt'
+ks='//twitter_kashmir.txt'
 
 
 ks=pd.read_table(ks) 
@@ -148,6 +148,6 @@ for o in ks.index:
     x1.append(x)
     y1.append(y)  
 
-py.sign_in('kashmir_senti', '6kq6ybzlj6')
+py.sign_in('xxx', 'xxx')
 sentiment_gauge(y1[-1])    
     
