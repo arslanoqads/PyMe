@@ -6,9 +6,8 @@ import sys
 
 tweets_data = []
 
-tweets_file=open('/var/lib/openshift/56bc1b8c0c1e667ea0000027/app-root/data/'+str(sys.argv[1]),"r")
+tweets_file=open('/data/'+str(sys.argv[1]),"r")
 
-#tweets_file = open('/var/lib/openshift/56bc1b8c0c1e667ea0000027/app-root/data/kashmir_tweets.txt', "r")
 for line in tweets_file:
     try:
         tweet = json.loads(line)
@@ -42,7 +41,7 @@ tweets['utc_offset'] = map(lambda tweet: tweet['user']['utc_offset'], tweets_dat
 
 
 
-tweets.to_csv('/var/lib/openshift/56bc1b8c0c1e667ea0000027/app-root/data/kashmir_tweets_pd.csv',encoding='utf-8',header=False,mode='a')
+tweets.to_csv('/kashmir_tweets_pd.csv',encoding='utf-8',header=False,mode='a')
 
 
 
