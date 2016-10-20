@@ -19,7 +19,7 @@ ax1=fig.add_subplot(1,1,1)
 #create fucntion for animation. this will be repeated everytime    
 def plot(tag):
     
-    file=open('/var/lib/openshift/56bc1b8c0c1e667ea0000027/app-root/data/twitter_'+tag[0].lower()+'.txt','r').read()
+    file=open('<file>'+tag[0].lower()+'.txt','r').read()
     
     lines=file.split('\n')
     
@@ -63,7 +63,7 @@ def plot(tag):
     fig.tight_layout()
     
     
-    plt.savefig('/var/lib/openshift/56bc1b8c0c1e667ea0000027/app-root/data/twitter_'+tag[0].lower()+'.png')    
+    plt.savefig('<file>/twitter_'+tag[0].lower()+'.png')    
 
 for i in hashtags:
      
