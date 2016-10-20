@@ -124,7 +124,7 @@ def plotly_monthtags(mcounts):
 
 
 
-py.sign_in('mqadri', 'bl201u3fiy')
+py.sign_in('xxx', 'xxx')
 plotly_monthtags(mcounts) 
 
 ######################################################
@@ -174,7 +174,7 @@ def plotly_weektags(wcounts):
 import plotly.plotly as py
 import plotly.graph_objs as go
 
-py.sign_in('qadri', '2u8icegihg')
+py.sign_in('xxx', 'xxx')
 plotly_weektags(wcounts) 
 
 
