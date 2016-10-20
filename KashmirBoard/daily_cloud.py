@@ -15,7 +15,7 @@ try:
 except:
  pass   
 
-img_mask='/var/lib/openshift/56bc1b8c0c1e667ea0000027/app-root/runtime/repo/wsgi/static/images/kashmir.png'
+img_mask='//images/kashmir.png'
 
 
 x=pd.read_csv(file_in)
@@ -54,4 +54,4 @@ default_colors = cloud.to_array()
 
 im = Image.fromarray(default_colors)
 
-im.save('/var/lib/openshift/56bc1b8c0c1e667ea0000027/app-root/runtime/repo/wsgi/static/images/kashmir_cloud.png')
+im.save('/kashmir_cloud.png')
