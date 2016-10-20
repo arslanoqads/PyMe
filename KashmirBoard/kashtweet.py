@@ -9,17 +9,14 @@ import time
 
 
 
-ckey='PIcj4Xn3CSf51IHRKjvUf7mmT'
-csecret='ZkJDVSXOARY4qGWqN3w1l0aLR3Zmr3JIrb5Qf2JKzc8AuLZinL'
-atoken='27452124-O6svLVkFHRSjgVgwyOQspMomQPQLBWVQJ2cZbPMCA'
-asecret='qXh0Y5AZHDPIJU1kByl79Lb0gE7puw6lpLjbavLEjwcy1'
+
             
 
 
 class StdOutListener(StreamListener):
 
     def on_data(self, data):
-        text_file = open("/var/lib/openshift/56bc1b8c0c1e667ea0000027/app-root/data/kashmir_tweets.txt", "a")
+        text_file = open("kashmir_tweets.txt", "a")
         #text_file = open("log.txt", "a")        
         text_file.write(data)    
         text_file.close()
