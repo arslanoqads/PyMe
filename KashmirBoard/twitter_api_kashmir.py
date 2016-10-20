@@ -5,10 +5,7 @@ import json
 from sentiment_engine import sentiment
 import time
 
-ckey='TsupdEVWLpx3kwYEJf14DkI69'
-csecret='i250OKmgha75ymqNEuacSHmC4EFZGLuBpijp86VSeYbCcstG8u'
-atoken='2371765364-WkYDXwTrGkorzWFWwvgCaVQ0iqtqAhraaBWLiJ5'
-asecret='ibnmdeFRCUiQUmbGUrIkjaigJ7FYmw8dwYoXb7I9ahgoy'
+
 
 
 class listener(StreamListener):
@@ -23,7 +20,7 @@ class listener(StreamListener):
         c=0
         if (conf>=90 and sent=='neg') or (sent=='pos'):
 
-            output=open('/var/lib/openshift/56bc1b8c0c1e667ea0000027/app-root/data/twitter_'+self.tag[0]+'.txt','a')
+            output=open('/twitter_'+self.tag[0]+'.txt','a')
             output.write(sent)
             output.write('\n')
             output.close()
