@@ -1,1 +1,2 @@
 The data engineering pipeline contains several processes automated to capture, clean, aggregate and plot data in realtime.The tweets are captured and go through rounds of primary and secondary cleaning to make sure all the erroneous tweets are sifted out. 
+ 
