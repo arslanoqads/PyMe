@@ -73,3 +73,4 @@ clean.created_at=pd.to_datetime(clean.created_at,infer_datetime_format=True)
 
 
 clean.to_csv('date_fixed.csv',mode='a')
+
