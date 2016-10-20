@@ -183,7 +183,7 @@ def plotly_intializer(file_out,timeline):
           yaxis3=dict(domain=[0, 0.15],autorange=True,showgrid=False,title='Civilian Injuries'))
     
     #fig = dict(data=data, layout=layout)
-    #py.sign_in('arazalan','xiaimi0443')
+    #py.sign_in('xxx','xxx')
     py.plot(fig,filename='styled-line')
 
 
@@ -197,5 +197,5 @@ import plotly.plotly as py
 import plotly.graph_objs as go
 
 #py.sign_in('arslanoqads', 'ruuzqpx3lo')
-py.sign_in('arazalan','xiaimi0443')
+py.sign_in('xxx','xxx')
 plotly_intializer(file_out,timeline) 
