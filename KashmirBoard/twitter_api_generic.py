@@ -5,10 +5,6 @@ import json
 from sentiment_engine import sentiment
 import time
 
-ckey='LX3JE2zaQkb3nqmxeBMc8x09B'
-csecret='7W3YI5o0kSeZUohS7yZCdSPlkyoXzeTIeEE3pto7rQ47nSqfSp'
-atoken='746068683110420480-gREhrFUUgQyAR7PYRuQ4jJVL9W7Nhv4'
-asecret='WxD0dzl5VsrfSm381AM2C4e9qQ4ppWuIUlJUMrGpJS3xz'
 
 
 class listener(StreamListener):
